@@ -1,0 +1,15 @@
+* Title: Planet Metal #34: Voivod
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: January
+* Publication Date Day: 28
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Създадени в ледено студения Квебек, вече 40 години Voivod следват свой маршрут. В началото свирят особено оглушителен траш и хардкор. Под ръководството на барабаниста Мишел Ланжевен, който е и талантлив графичен дизайнер, групата често се носи в експериментални морета. По пътя си търпи неуспехи и преживява трагедии, включително смъртта на един от основателите, за да се прероди с новаторски и много успешен албум.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/34%20Voivod
