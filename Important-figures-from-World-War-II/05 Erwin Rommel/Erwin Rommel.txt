@@ -1,0 +1,14 @@
+* Title: Ервин Ромел. Пустинната лисица
+* Author(s) name(s): Jaime Moreno Delgado
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: March
+* Publication Date Day: 11
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: От всички велики генерали на Вермахта, взели участие във Втората световна война, - Фон Манщайн, Модел, Гудериан, Фон Рундщет - този, който несъмнено печели най-голямо уважение сред германците и сред противниците им, е Ервин Ромел. Дъръзк, гъвкав, храбър, изобретателен, енергичен, съпричастен към своите и с рицарско поведение кьм врага, Ромел води „война без омраза" и успява да остане встрани от престъпленията срещу човечеството, извършени в големи мащаби на Източния фронт. Животът, делата и трагичният му край, споделен с други офицери, опитали да посегнат на живота на Хитлер, го превръщат в забележителна фигура както на бойното поле, така и в нормалния живот.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/34%20Voivod
