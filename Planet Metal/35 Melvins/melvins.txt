@@ -12,4 +12,4 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/35%20Melvins
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/35-Melvins
