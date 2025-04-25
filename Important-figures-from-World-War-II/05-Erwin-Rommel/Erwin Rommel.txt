@@ -11,4 +11,5 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/34%20Voivod
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Important-figures-from-World-War-II/05-Erwin-Rommel
