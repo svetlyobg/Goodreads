@@ -1,0 +1,15 @@
+* Title: Planet Metal #36: Judas Priest
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: 02
+* Publication Date Day: 25
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Трудно е да останем безчувствени към музиката на Melvins, защото никога не знаем в каква посока ще поеме. Въпреки че има силна хард и хеви страна, групата успява да я превъзмогне и да я направи абсолютно уникална. Тя създава специфичен стил, наречен „слъдж“. Музикантите от Melvins избират бавното пред скоростното темпо, но не искат просто да бъдат „дъвка за слуха“: те са професионалисти в това да развълнуват публиката, а целта им е да провокират реакция.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/36JudasPriest
