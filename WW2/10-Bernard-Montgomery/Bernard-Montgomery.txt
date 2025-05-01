@@ -1,0 +1,18 @@
+* Title: Бърнард Монтгомъри. Спартанският генерал
+* Series Link: https://www.goodreads.com/series/409925
+* Series Title: Важни личности от Втората световна война #10
+* Series: Важни личности от Втората световна война Series
+* Author(s) name(s): Jaime Moreno Delgado
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 08
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Бърнард Лоу Монтгомъри, наричан Спартанският генерал, е военен от британската армия по време на Втората световна война, ключова и много противоречива фигура. Победата му над германския генерал Ромел е повратен момент. Позицията му обаче за десанта в Нормандия, който той поставя под въпрос от самото начало, и фиаското на операция „Маркет Гардън“, свързано с последната победа на Хитлер, завинаги опетняват репутацията му. Онези, които го познават, го описват като недостъпен, високомерен и самонадеян, а липсата на дипломатически умения му печели много врагове. Острите му сблъсъци с Патън и Айзенхауер, а дори и със самия Чърчил остават в историята.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/10-Bernard-Montgomery
