@@ -1,0 +1,20 @@
+* Title: Оскар Шиндлер. Нацистът, който спасява евреи
+* Series Link: https://www.goodreads.com/series/409925
+* Series Title: Важни личности от Втората световна война #11
+* Series: Важни личности от Втората световна война Series
+* Author(s) name(s): Jaime Moreno Delgado
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 15
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Оскар Шиндлер е сложен и противоречив човек – шпионин, бизнесмен, любител на хубавия живот, член на Национал-социалистическата партия и спасител на евреи. Голямата му мечта да забогатее го кара да се установи в Краков, завладян от Адолф Хитлер. Благодарение на расовите закони на Третия райх тази мечта се сбъдва за кратко време. Въпреки това неговият бизнес успех отваря очите му за ужаса, който евреите изпитват
+по време на нацисткия режим, като този ужас изглежда няма граници. Тогава той се разбунтува и рискувайки
+богатството и живота си, се заема да спаси колкото може повече евреи.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/11-Oskar-Schindler
