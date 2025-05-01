@@ -1,0 +1,18 @@
+* Title: Анте Павелич. Касапинът на Балканите
+* Series Link: https://www.goodreads.com/series/409925
+* Series Title: Важни личности от Втората световна война #12
+* Series: Важни личности от Втората световна война Series
+* Author(s) name(s): Jaime Moreno Delgado
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 22
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Към края на 20-те години хърватинът Анте Павелич създава фашисткото движение „Усташи“. Поставен начело на Независимата държава Хърватия през 1941 г. от италианци и германци, той организира правителство, белязано от расова омраза, което води до смъртта на стотици хиляди сърби, евреи, цигани и политически противници. В следвоенния период влиятелните му контакти в няколко западни държави и с католическата църква предотвратяват екстрадирането му в Титова Югославия и той не плаща за престъпленията си.
+ 
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/12-Ante-Pavelic
