@@ -1,0 +1,16 @@
+* Title: Хайнрих Химлер. Дясната ръка на Хитлер
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jaime Moreno Delgado
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 06
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Хайнрих Химлер е умело трупащ власт, раболепен и безмилостен член на нацистката администрация. Безусловно отдаден на Хитлер, той е лоялен към него, докато не наближава краят на войната, когато го предава. Привърженик на мистицизма и окултизма, по време на войната фанатично и хладнокръвно подкрепя расистката идеология на нацизма и се превръща в главен архитект на Холокоста.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/14-Heinrich-Himmler
