@@ -1,0 +1,15 @@
+* Title: Planet Metal #40: Queensryche
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: 04
+* Publication Date Day: 22
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Queensrÿche</i> е една от първите групи, съчетаващи агресията на хеви метъл със звуковите експерименти на прогресив рок. Въпреки че е от Съединените щати, тя черпи вдъхновение от британския хард рок, което не пречи да създаде своя идентичност. Тя е и сред предшествениците на стила, наречен прогресив метъл, въз основа пък на който се развива пауър метъл. В 40-годишната си кариера са продали около 20 милиона албума.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/40-Queensryche
