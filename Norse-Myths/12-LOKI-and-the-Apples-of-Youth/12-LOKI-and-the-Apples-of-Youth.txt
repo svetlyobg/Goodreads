@@ -1,0 +1,16 @@
+* Title: ЛОКИ и ябълките на вечната младост
+* Link: https://www.goodreads.com/book/show/50314662-loki-y-las-manzanas-de-la-juventud
+* Author(s) name(s): Enrique Dueñas
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 12
+* Page count: 116
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Пелена от тъга и опустошение покрива Асгард. Боговете остаряват безвъзвратно, дори самият Один изглежда грохнал. Но каква е причината? Идун, пазителката на гората, в която растат ябълките на вечната младост, е отвлечена от Тиаци – великан, който е и магьосник. В ужасното деяние участва и Локи. Следва поредица от събития, при които коварният бог, превърнал се в обект на презрение от страна на останалите богове на Асгард, е връхлетян от силна буря от емоции, страсти и противоречиви чувства.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/12-LOKI-and-the-Apples-of-Youth
