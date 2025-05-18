@@ -1,0 +1,15 @@
+* Title: Planet Metal #39: Cradle of Filth
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: 04
+* Publication Date Day: 08
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Основаната от Джош Хоуми <i>Queens Of The Stone Age</i> има знаково звучене – грубо и изключително оригинално, въпреки очевидното повлияване от блус до краутрок и авангардна електронна музика. Най-трудно е всичко да се събере на едно място, но групата успява да го направи. От сливането на тези стилове тя създава нов под-жанр – стоунър рок, който дълбоко обновява езика на метъла.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/39-Queens-of-the-Stone-Age
