@@ -1,0 +1,15 @@
+* Title: Planet Metal #37: Deftones
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: 03
+* Publication Date Day: 25
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Първоначално блек метълът е типичен скандинавски продукт. От средата на 90-те години Cradle Of Filth, израснали под дъждовното небе на Англия, оказват значително влияние върху него, като добавят симфонична атмосфера, оформена от потискащ мрачен клавир. Благодарение на гласа на харизматичния им лидер Дани Филт, през следващите 30 години групата разпространява по метъл планетата еротично и романтично ухание на готическа съблазън.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/37-Deftones
