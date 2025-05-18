@@ -1,0 +1,17 @@
+* Title: ЛОКИ и пророчеството за Рагнарьок
+* Link: https://www.goodreads.com/book/show/49932052-loki-e-la-profezia-del-ragnar-k
+* Series Link: https://www.goodreads.com/series/272368-mitos-n-rdicos
+* Author(s) name(s): Sergio A. Sierra
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: February
+* Publication Date Day: 24
+* Page count: 116
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: След първата война в света – тази между Аси и Вани – Асгард остава беззащитен. В обителта на боговете се настанява нов гост – младият Локи, син на ненавистните великани, когото Один по неизвестни причини решава да задържи при себе си и да закриля. По това време загадъчен строител предлага да възстанови стените на царството, но в замяна иска прекомерна награда: Слънцето, Луната и ръката на красивата богиня Фрея. Това чака Локи, за да спечели доверието на боговете, но плановете му са осуетени и за да предотврати катастрофата, му се налага да прибегне до уникалните си сили.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/03-LOKI-and-the-Ragnarok-Prophecy
