@@ -1,0 +1,17 @@
+* Title: ОДИН срещу Ваните
+* Link: https://www.goodreads.com/book/show/48720520-od-n-contra-los-vanes
+* Series Link: https://www.goodreads.com/series/272368-mitos-n-rdicos
+* Author(s) name(s): Álvaro Marcos
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: March
+* Publication Date Day: 24
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Два божествени рода живеят в Творението: Аси, начело на които стои Один, и Вани, които са тясно свързани със силите на природата. В Асгард, където са се заселили Асите, Один винаги е нащрек за знаците, предвещаващи Рагнарьок. Един ден открива, че великаните са научили тайните на магията на Ваните. Когато могъщата магьосница Гулвейг пристига в Асгард, Один вижда възможност да бъде посветен в тайните на това могъщо оръжие – нейната магия. Но Гулвейг е алчна и коварна, а интригите ѝ могат да предизвикат война между двата божествени рода. Ще оцелеят ли Деветте свята в такъв конфликт?
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/05-ODIN-vs.-the-Vanes
