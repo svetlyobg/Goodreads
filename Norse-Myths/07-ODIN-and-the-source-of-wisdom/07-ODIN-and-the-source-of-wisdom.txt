@@ -1,0 +1,16 @@
+* Title: ОДИН и изворът на мъдростта
+* Link: https://www.goodreads.com/book/show/48764008-od-n-y-la-fuente-de-la-sabidur-a
+* Author(s) name(s): David Domínguez
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 07
+* Page count: 116
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Във вселена, изобилстваща с магия и висши сили, Один търси начин да избегне Рагнарьок – края на света. Отправя се на път, за да бъде посветен в познанието за всички неща. Очаква да получи мъдрост от един от изворите, напояващи великия ясен Игдрасил. Скоро обаче открива, че няма знание без жертва. Мимир, великанът, който пази извора и когото богът смята за един от най-верните си приятели, ще поиска ужасна цена, за да му позволи да утоли жаждата си с водите на познанието. Один е готов на всякаква жертва, за да се сдобие с мъдрост от извора.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/07-ODIN-and-the-source-of-wisdom
