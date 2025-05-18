@@ -1,0 +1,17 @@
+* Title: ТОР и силата на Мьолнир
+* Link: https://www.goodreads.com/book/show/50905166-thor-y-el-poder-de-mjolnir
+* Series Link: https://www.goodreads.com/series/272368-mitos-n-rdicos
+* Author(s) name(s): Sergio A. Sierra
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: January
+* Publication Date Day: 01
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: На Тор, сина на Один, е предопределено да бъде воинът, който да води битката срещу силите на хаоса. Въпреки това у Один витае колебание: синът му е твърде горделив, а нравът му е буен и неудържим. Една лоша шега, която Локи си прави с годеницата на Тор, прекрасната Сиф, предизвиква поредица от събития: Один заповядва на Локи да отиде в света на джуджетата, за да открие дарове, с които да отмие нанесената обида, и Локи се връща с чудно оръжие: чука Мьолнир, който има власт над гръмотевиците. Ще успее ли Тор да овладее бурния си нрав и да се превърне в героя, от когото богове и хора отчаяно се нуждаят?
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/01-THOR-and-the-power-of-Mjolnir
