@@ -1,0 +1,17 @@
+* Title: ОДИН и деветте свята
+* Link: https://www.goodreads.com/book/show/50921885-od-n-y-los-nueve-mundos
+* Series Link: https://www.goodreads.com/series/272368-mitos-n-rdicos
+* Author(s) name(s): Sergio A. Sierra
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: February
+* Publication Date Day: 10
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Всичко сътворено е произлязло от древната борба между огъня и леда. Когато Один научава какви сили притежава неговият род – боговете, той поема ролята на водач, за да се бори с жестоките същества, които искат да превърнат Творението в хаос. Бащата на всички се изправя срещу първородните гиганти – Имир и неговите потомци, ледените великани. Один подрежда свят, в който да живеят всички различни същества. Цената са големи жертви и ужасно разкритие: пророчеството за съдбата на цялото Творение.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/02-ODIN-and-the-Nine-Worlds
