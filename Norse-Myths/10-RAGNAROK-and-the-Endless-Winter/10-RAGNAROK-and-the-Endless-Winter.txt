@@ -1,0 +1,16 @@
+* Title: РАГНАРЬОК и великата зима
+* Link: https://www.goodreads.com/book/show/49232122-ragnar-k-y-el-invierno-sin-fin
+* Author(s) name(s): Xavier V. Alemany
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 28
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Один предчувства наближаването на Рагнарьок и мрачни мисли превземат ума му. Бащата на всички се страхува, че децата чудовища на Локи ще изпълнят пророчеството и че великата зима ще се спусне над Деветте свята. Заслепени от гняв, потомците на Локи искат да отмъстят за баща си, който изтърпява ужасяващо мъчение, наложено му от боговете. Завързан с червата на Нарфи – един от синовете му, Локи е подложен на продължително изтезание – змийска отрова капе по лицето му. Синът на Лаувей е принуден да изтърпи жестокото наказание заради подстрекателството си към убийството на Балдер. Унижени от отношението на боговете към баща им, децата на Локи се впускат да всяват хаос и да сеят смърт.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/10-RAGNAROK-and-the-Endless-Winter
