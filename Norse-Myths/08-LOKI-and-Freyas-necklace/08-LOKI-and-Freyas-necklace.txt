@@ -1,0 +1,16 @@
+* Title: ЛОКИ и огърлицата на Фрея
+* Link: https://www.goodreads.com/book/show/48717658-loki-y-el-collar-de-freya
+* Author(s) name(s): Aranzazu Serrano Lorenzo
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: April
+* Publication Date Day: 14
+* Page count: 116
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Красивата Фрея, изпратена от Один в света на джуджетата, е очарована от чудната огърлица, която те, най-добрите майстори в Деветте свята, в момента изработват. Бижуто е необикновено, сияйно и омагьосващо като звездите при небесния свод. Отчаяно желаеща да го притежава, Фрея се съгласява да плати високата цена, поискана от джуджетата. Когато научава за това, Один, който от дълги години желае красивата богиня, полудява от ревност и замисля отмъщение. Винаги готовият да му угоди Локи застава на негова страна, макар да знае, че рискува не само живота, честта си и уважението на боговете, но и любовта на съпругата си.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/08-LOKI-and-Freyas-necklace
