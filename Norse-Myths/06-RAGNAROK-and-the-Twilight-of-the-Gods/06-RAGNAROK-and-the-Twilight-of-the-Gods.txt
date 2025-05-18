@@ -1,0 +1,17 @@
+* Title: РАГНАРЬОК и залезът на боговете
+* Link: https://www.goodreads.com/book/show/48677867-ragnar-k-y-el-ocaso-de-los-dioses
+* Author(s) name(s): Aranzazu Serrano Lorenzo
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: March
+* Publication Date Day: 31
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: От известно време Балдер – най-красивият и оби-
+чан бог в целия Асгард, син на Один и Фриг, кралицата на небето – страда от ужасни кошмари, в които вижда себе си в царството на мъртвите. Родителите му приемат това за предупредителен знак и тъй като се опитват да го предпазят по всякакъв начин, се отправят на пътешествие, по време на което разкриват ужасни тайни. Междувременно Локи, възмутен от жестокото отношение на боговете към своето потомство – богинята на смъртта Хел, вълка Фенрир и гигантската змия Йормунганд – тихо плете мрежи на отмъщение, което вещае жестоки последици.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/06-RAGNAROK-and-the-Twilight-of-the-Gods
