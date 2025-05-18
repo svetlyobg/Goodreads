@@ -1,0 +1,16 @@
+* Title: ОДИН и магическите руни
+* Link: https://www.goodreads.com/book/show/49935032-od-n-y-las-runas-m-gicas
+* Author(s) name(s): Álvaro Marcos
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 05
+* Page count: 118
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Решен да предотврати настъпването на Рагнарьок, Один умолява богинята Фрея да му разкрие тайните на магията на Ваните <i>сейд</i>. След много молби Фрея най-накрая се съгласява, но в замяна иска да получава половината от падналите в битките в Мидгард. С помощта на <i>сейд</i> Один се научава да общува с дървото Игдрасил и великият ясен му разкрива съществуването на нова форма на магия: руните, чрез които е възможно да се активират тайнствените сили, изпълнили Гинунгагап – великата празнота, предшествала Сътворението. Но за да разбере този тайнствен език, Один ще трябва да премине по границата между живота и смъртта.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/11-ODIN-and-the-magic-runes
