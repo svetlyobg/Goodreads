@@ -1,0 +1,15 @@
+* Title: Planet Metal #42: Def Leppard
+* Author(s) name(s): Philippe Margotin
+* ISBN (or ASIN): ISSN 2975-0199
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: 05
+* Publication Date Day: 20
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Независимо от огромния успех на групата, изкуството на <i>Def Leppard</i> никога не е вземано насериозно от критиците – може би защото е простичко или пък много популярно. Публиката обаче приема групата с отворени обятия и я обожава. Нейната история е толкова невероятна, че на моменти взема превес над качествата на музиката. Групата е сред положилите основния камък на глем метъла.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/42-Def-Leppard
