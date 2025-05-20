@@ -1,0 +1,16 @@
+* Title: Рудолф Хес. Последният полет до Шотландия
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Joan Solé
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 20
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Рудолф Хес е най-сложният и трагичен герой от всички, които са в обкръжението на Хитлер. Идеалист, отдаден на националсоциалистическата кауза, за разлика от други йерарси той не търси богатство, власт и почести, иска само да служи на своя водач, когото почита. До него е след неуспешния опит за преврат през 1923 г. в затвора в Ландсберг, където участва в създаването на „Моята борба“, като прави значителни подобрения, съветва го и при издигането му в канцлер. Също така е един от организаторите на Нощта на дългите ножове, в клането на много видни членове на НСДАП и СА, изготвя и Нюрнбергските расови закони от 1935 г.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/16-Rudolf-Hess
