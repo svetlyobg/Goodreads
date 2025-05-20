@@ -1,0 +1,16 @@
+* Title: ТОР и защитникът на великаните
+* Link: https://www.goodreads.com/book/show/50334625-thor-e-il-paladino-dei-giganti
+* Author(s) name(s): Facundo Piperno
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 19
+* Page count: 115
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Один като баща е загрижен заради невъздържания и сприхав характер на Тор. В безброй случаи, воден от суета, синът му с безразсъдните си действия заплашва онези, които трябва да защитава. За да сложи край на неразумното поведение на бога на гръмотевиците, господарят на Асгард изготвя дързък и хитър план. Замисля необикновено приключение за Тор, в което да участват и верните му оръженосци – Тиалфи и Рьоскwа, хитрият бог Локи и най-вече двама великани – арогантният Хрунгнир и ужасяващият Мьокуркалви – глинен колос, създаден от могъщия магьосник Утгарда-Локи.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/13-TOR-and-the-defender-of-the-giants
