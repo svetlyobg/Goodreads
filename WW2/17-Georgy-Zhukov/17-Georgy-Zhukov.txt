@@ -1,0 +1,16 @@
+* Title: Георгий Жуков. Маршалът на победата
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jordi Solé
+* Publisher: ESME PUBLISHING
+* Publication Date Year: 2025
+* Publication Date Month: May
+* Publication Date Day: 27
+* Page count: 141
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Георгий Жуков е една от най-важните и уважавани фигури във военната история на ХХ век и е запомнен с решаващия си принос за разгрома на нацизма. Той се отличава в редиците на императорската армия по време на Първата световна война, в Гражданската война се присъединява към Червената армия, затвърждавайки репутацията си на умел и смел командир. Със своите умения и твърдост на бойното поле по време на Втората световна война играе решаваща роля в повечето големи битки на Източния фронт, включително в отбраната на Москва, при Сталинград и операция „Багратион“.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/17-Georgy-Zhukov
