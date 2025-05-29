@@ -4,7 +4,7 @@
 * ISBN (or ASIN): ISSN 2975-0199
 * Publisher: Hachette Fascicoli S.R.L.
 * Publication Date Year: 2025
-* Publication Date Month: 06
+* Publication Date Month: June
 * Publication Date Day: 03
 * Page count: 64
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
