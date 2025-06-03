@@ -1,1 +1,1 @@
-GitHub хранилище за добавяне на книги и издания в Goodreads, свързани с колекциите "Planet Metal", "Важни личности от Втората световна война" и "Скандинавска митология".
+GitHub хранилище за добавяне на книги и издания в [Goodreads](https://www.goodreads.com/user/show/60789039-svetlozar-kosev), свързани с колекциите "[Planet Metal](https://www.goodreads.com/series/380276-planet-metal)", "[Важни личности от Втората световна война](https://www.goodreads.com/series/409925)" и "[Скандинавска митология](https://www.goodreads.com/series/418571)".
