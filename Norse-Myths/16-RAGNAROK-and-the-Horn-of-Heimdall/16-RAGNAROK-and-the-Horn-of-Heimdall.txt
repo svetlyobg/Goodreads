@@ -1,15 +1,25 @@
 * Title: РАГНАРЬОК и рогът на Хеймдал
+* Issue: 16
 * Link: https://www.goodreads.com/series/418571
-* Author(s) name(s): 
+* Author(s) name(s): J. Arias, Juan Carlos Moreno
+* Illustrator(s): Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
-* Publisher: ESME PUBLISHING
+* Publisher: Hachette Fascicoli S.r.l.
+* Editor(s)-in-chief: Isabelle Magnac
+* Managing Director(s): Valentina Bramati
+* Editorial Director(s): Gualtiero Viganò
+* Cover Art: Tenllado Studio & Llorenç Martí
+* Adaptation: SEO Creative Brain Ltd.
+* Pre-press preparation: Таня Ивчева
+* Manager(s) of the collection periodical: Милена Стоянова
+* Distributor(s): „Национална дистрибуция“ АД
 * Publication Date Year: 2025
 * Publication Date Month: June
 * Publication Date Day: 09
-* Page count: 
+* Page count: 118
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Ветрове на разрушение и смърт духат над Творението. Заслепени от ярост заради наказанието, наложено на баща им от боговете на Асгард, страховитите деца на Локи призовават силите на хаоса, чиято крайна цел е Рагнарьок. Армии от великани се втурват под призива им и подлагат на унищожение Мидгард. Тор, с чука Мьолнир и с помощта на смелите валкирии, ще се опита да ги удържи, но това няма да е достатъчно. Докато ужасът се разпространява, Хеймдал, пазителят на Бифрьост – моста, който свързва Асгард с другите светове – надува своя рог, за да призове боговете и техните съюзници срещу силите на хаоса.
 
 * Language (for non-English books): Bulgarian
 
