@@ -1,15 +1,23 @@
 * Title: Макс Манус. Големият диверсант
+* Issue: 19
 * Series Link: https://www.goodreads.com/series/409925
-* Author(s) name(s): 
-* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
-* Publisher: ESME PUBLISHING
+* Author(s) name(s): Luigi Guaineri
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publishing Design: Bonalletrra Alcompas, S. L.
+* Cover: Pau Taverna
+* Graphic Design: Litus Gràfic
+* Bulgarian Adaptation: SEO Creative Brain Ltd.
+* Pre-press Preparation: Таня Ивчева
+* Collection Manager: Милена Стоянова
+* Distributor in Bulgaria (Разпространение): „Национална дистрибуция“ АД
 * Publication Date Year: 2025
 * Publication Date Month: June
 * Publication Date Day: 10
-* Page count: 
+* Page count: 144
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
 
-* Description: 
+* Description: Макс Манус е авантюрист, пътешественик, патриот и един от главните герои на норвежката съпротива по време на Втората световна война. Той е неспокоен, воден от чувство за справедливост, постоянно търсещ собствения си път. Волеви и безскрупулен, неуморен и интелигентен, след обучение в Англия се превръща в опитен диверсант, като използва качествата си за освобождението на родината си, окупирана от нацистите. Дръзките му подвизи, изживени в постоянни опасения да не бъде разкрит от Гестапо, лоялността му към короната в изгнание, саркастичното му виждане за войната и нейните герои го превръщат в един от най-обичаните герои на Норвегия.
 
 * Language (for non-English books): Bulgarian
 
