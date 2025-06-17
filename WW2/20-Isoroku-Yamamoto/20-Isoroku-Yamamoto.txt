@@ -1,0 +1,18 @@
+* Title: Исороку Ямамото. Мозъкът зад Пърл Харбър
+* Issue: 20
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Luigi Guaineri
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: June
+* Publication Date Day: 17
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Японският адмирал Исороку Ямамото, известен със своя неспокоен ум и сложна личност, се ползва с възхищението на народа си заради впечатляващите тактически умения и дълбоко уважение към традициите на страната си. Той е запален покер играч и влиза в историята като един от най-великите стратези на Втората световна война заради легендарната си и непоколебима отдаденост. Въпреки че е твърдо против започването на офанзива срещу Съединените щати, през декември 1941 г. организира и ръководи нападението срещу базата в Пърл Харбър. След първоначалния успех на японците мощната американска реакция неумолимо води до поражението на Страната на изгряващото слънце, на което обаче Ямамото няма да стане свидетел: самолетът, в който пътува, е свален през 1943 г.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/20-Isoroku-Yamamoto
