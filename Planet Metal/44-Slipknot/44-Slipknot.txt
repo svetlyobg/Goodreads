@@ -1,0 +1,17 @@
+* Title: Planet Metal #44: Slipknot
+* Issue: 44
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: June
+* Publication Date Day: 17
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Slipknot</i> са всичко друго, но не и безмозъчни музиканти. Не са и от посветилите се на създаване на музика, която да продават на масите, както твърдят някои метъл пуристи. Не ги интересува дали ще спечелят благоволението на всички. <i>Slipknot</i> са шоумени, измъчени от живота, но готови да разкрият оголените си рани на сцената и да изобличат света, че е егоистичен. Не се страхуват да признаят, че обичат публиката си. А тя също им отвръща с любов.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/44-Slipknot
