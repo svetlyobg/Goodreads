@@ -1,0 +1,17 @@
+* Title: Карл Дьониц. Наследникът на Хитлер
+* Issue: 21
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): 
+* Publisher: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: June
+* Publication Date Day: 24
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Карл Дьониц е един от безспорните герои на Войната на море през Втората световна война. Роден и израснал по времето на могъща и горда Германия, той поставя чувството си за дълг и духа си на дисциплина в услуга на националсоциализма. Постъпва във флота, участва в Първата световна война и развива пристрастие към подводниците. Той ръководи безмилостния германски подводен флот през Втората световна война. През 1943 г. е главнокомандващ на целия флот. След смъртта на Хитлер го наследява като ръководител на германския Райх, но това са само двайсет и три дни.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/21-Karl-Donitz
