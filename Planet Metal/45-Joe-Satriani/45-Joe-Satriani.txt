@@ -2,6 +2,7 @@
 * Issue: 45
 * Series Link: https://www.goodreads.com/series/380276-planet-metal
 * Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Michael Ochs Archive
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Fascicoli S.R.L.
 * Publication Date Year: 2025
@@ -10,7 +11,7 @@
 * Page count: 64
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Той е маестро за някои от най-добрите китаристи в света и вдъхновител на много от музикантите на метъл сцената. Каквото и да кажем за Джо Сатриани, ще бъде малко. Талантът му блика от всяка нота и хвърля масовата публика във възторг. Виртуозните му изпълнения и неподражаема техника го поставят на пиедестала на китарните герои.
 
 * Language (for non-English books): Bulgarian
 
