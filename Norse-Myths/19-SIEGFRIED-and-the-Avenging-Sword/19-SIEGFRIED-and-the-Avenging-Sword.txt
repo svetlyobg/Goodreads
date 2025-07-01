@@ -1,17 +1,17 @@
 * Title: Зигфрид и мечът на възмездието
 * Issue: 19
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s): Aranzazu Serrano
-* Illustrator(s): Juan Venegas (cover & title page), Esteban Alejo Sáenz de Tejada (internal illustrations)
+* Author(s) name(s): David Domínguez
+* Illustrator(s): Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
 * Publication Date Month: June
 * Publication Date Day: 30
-* Page count: 120
+* Page count: 118
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Младият Зигфрид живее щастливо в Орхус, в страната на даните. Той тренира и възмъжава, следвайки наставленията на своя учител – джуджето Регин, и се наслаждава на компанията на семейството и приятелите си. Животът му се преобръща, когато неговата майка Хьордис му разкрива ревниво пазена тайна. До него долита ехо от древни битки и могъща магия, нишките на съдбата му се преплитат по мистериозен начин и го призовават към отмъщение. Зигфрид ще се изправи пред изпитанието с легендарния меч Грам в ръка, изкован наново от умелите ръце на Регин.
 
 * Language (for non-English books): Bulgarian
 
