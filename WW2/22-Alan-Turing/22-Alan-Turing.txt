@@ -1,16 +1,18 @@
 * Title: Алан Тюринг. Победа на интелекта
 * Issue: 22
 * Series Link: https://www.goodreads.com/series/409925
-* Author(s) name(s): 
+* Author(s) name(s): Gisela Baños
+* Illustrator(s): Pau Taverna
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Emse Edapp S. L.
 * Original Idea: Emse Edapp S. L.
 * Publication Date Year: 2025
 * Publication Date Month: July
 * Publication Date Day: 01
-* Page count: 
+* Page count: 144
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
 
-* Description: 
+* Description: Днес мнозина смятат, че светът е задължен на Алън Тюринг заради важната му роля по време на Втората световна война. Този брилянтен британски математик и логик успява да дешифрира криптираните съобщения, изпращани от нацистите с машина „Енигма“. Направеното от него и екипа, с който работи в Блечли Парк, спасява милиони животи, но това не възпира британското общество, което загърбва изключителния му принос, да го осъди по съществуващите тогава хомофобски закони. Сравнително неотдавна, много години след смъртта на Тюринг, британското правителство се извини публично за отношението към него, а през 2013 г. кралица Елизабет посмъртно го помилва.
 
 * Language (for non-English books): Bulgarian
 
