@@ -3,6 +3,6 @@
 
 GitHub хранилище за добавяне на книги и издания в [Goodreads](https://www.goodreads.com/user/show/60789039-svetlozar-kosev), чрез дискусията [Bulgaria reads discussion -> Потребители > Имам нужда от библиотекар, моля! :)](https://www.goodreads.com/topic/show/898703) свързани с колекциите "[Planet Metal](https://www.goodreads.com/series/380276-planet-metal)", "[Важни личности от Втората световна война](https://www.goodreads.com/series/409925)" и "[Скандинавска митология](https://www.goodreads.com/series/418571)". Също така, изданията в поредиците могат да се видят на сайта на дистрибутора:
 
-- [Скандинавска митология](https://ndbg.net/skandinavska-mitologija-broj-18-977303529003618-1750657581.html)
+- [Скандинавска митология](https://ndbg.net/knigi-i-spisanija/skandinavska-mitologija.html)
 - [Важни личности от Втората световна война](https://ndbg.net/knigi-i-spisanija/lichnostite-na-vtorata-svetovna-vojna.html)
 - [Planet Metal](https://ndbg.net/knigi-i-spisanija/planet-metal.html)
