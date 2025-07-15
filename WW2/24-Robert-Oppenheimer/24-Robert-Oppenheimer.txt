@@ -1,0 +1,20 @@
+* Title: Робърт Опенхаймер. Унищожителят на светове
+* Issue: 24
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Gisela Baños
+* Illustrator(s): Pau Taverna
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: July
+* Publication Date Day: 15
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Нападенията с атомно оръжие над Хирошима и Нагасаки остават като едно от най-позорните събития в световната история. Създаването на атомната бомба е свързано с личността на гениалния учен Джей Робърт Опенхаймер. Той е със сложен характер и твърди убеждения, допринася за раждане на новата физика, революционизирана от квантовата механика и теорията на относителността, която бележи промяна в парадигмата не само на науката, но и на хуманизма. Опенхаймер е медийният герой на Втората световна война, но безцеремонно му е обърнат гръб, когато категорично се противопоставя на онова, от което най-силно се страхува: разпространяването на оръжия, които могат да заличат цели градове от лицето на земята, на оръжията, които той е създал.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/24-Robert-Oppenheimer
