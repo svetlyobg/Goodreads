@@ -1,0 +1,18 @@
+* Title: Planet Metal #46: Thin Lizzy
+* Issue: 46
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Koh Hasebe
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: July
+* Publication Date Day: 15
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: В продължителната си и бурна епопея <i>Thin Lizzy</i> многократно променя състава си и приема музиканти от цял свят. За фронтмена Фил Лайнът <i>Thin Lizzy</i> е и винаги ще бъде ирландска група. От музикална гледна точка тя черпи вдъхновение от ирландските си корени. Изпълнява дори традиционната ирландска балада <i>Whiskey in the Jar</i>. Славата обаче идва в средата на 70-те години на крилете на друго звучене. Агресивният хард рок и китарните дуели им донасят чаканата популярност.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/46-Thin-Lizzy
