@@ -2,17 +2,17 @@
 * Issue: 23
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): 
-* Illustrator(s):  (cover & title page),  (internal illustrations)
+* Author(s) name(s): María Romero
+* Illustrator(s): Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
 * Publication Date Month: July
 * Publication Date Day: 28
-* Page count: 
+* Page count: 118
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: След като побеждава Хундингите и отмъщава за смъртта на баща си Зигмунд, младият Зигфрид е посрещнат с големи почести в Орхус. Докато се наслаждава на триумфа си, неговият наставник, джуджето Регин, не спира да му напомня за тържественото обещание, което е дал: да се изправи срещу дракона Фафнир – страховито същество, което пази легендарно съкровище. Подтикван от своя учител и жаден за нови подвизи, младият Волсунг ще се впусне в приключение, изпълнено с опасности и изненади, което ще го превърне в герой.
 
 * Language (for non-English books): Bulgarian
 
