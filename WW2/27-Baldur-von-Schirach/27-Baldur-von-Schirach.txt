@@ -1,0 +1,21 @@
+* Title: Балдур фон Ширах. Фюрерът на младите
+* Issue: 27
+* Series Link: https://www.goodreads.com/series/409925
+* Genres: History
+* Author(s) name(s): Luigi Guaineri
+* Illustrator(s): Pau Taverna (cover)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: August
+* Publication Date Day: 05
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Израснал в изискана среда, сред богати хора, младият и патриотично настроен Балдур фон Ширах посвещава живота си на националсоциалистическата кауза на Адолф Хитлер, като сплотява, мобилизира, поучава, разпалва и индоктринира германските деца и юноши, които в трудните години след Първата световна война откриват в нацистката партия и нейния лидер надежда за славно бъдеще. Под крилото на своя „политически баща“ той насочва новите поколения към бъдеще, което няма да е бъдеще на възмездие, а на война и разрушение. Неговата променлива и пресметлива натура, желанието му да подражава и да ласкае Хитлер, сляпата му вяра в бъдещия фюрер на Третия райх го превръщат във „вълшебния свирец“ за германската младеж.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/27-Baldur-von-Schirach
