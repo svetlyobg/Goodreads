@@ -2,8 +2,8 @@
 * Issue: 24
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): 
-* Illustrator(s): Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Author(s) name(s): Xavier V. Alemany
+* Illustrator(s): Juan Venegas (cover & title page), Verónica Navarro (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -12,7 +12,7 @@
 * Page count: 118
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Под пепелището, покриващо някогашното Творение, пулсират спящите сили на боговете, оцелели след настъпването на Рагнарьок. Дошло е време за трудно пробуждане, в което останалите живи богове ще трябва наново да съградят погубения свят. Но има на какво да се надяват. Докато Балдер и Фрей се скитат из опустошението, съзират в абсолютния мрак блясъка на острие от светлина, което възвестява възможността за прераждане. Новината разпалва вярата у всички оцелели богове.
 
 * Language (for non-English books): Bulgarian
 
