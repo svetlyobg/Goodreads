@@ -1,0 +1,19 @@
+* Title: Planet Metal #49: Epica
+* Issue: 49
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Genres: Music
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): 
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: August
+* Publication Date Day: 26
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Музикалният път на <i>Epica</i> започва, когато Марк Янсен е изгонен от <i>After Forever</i> – групата, която основава заедно с приятеля си Сандър Гоманс. Вероятно не е съвпадение, че <i>After Forever</i> се разпадат само няколко години след това. Плановете на нидерландския китарист обаче са амбициозни и той не губи време да съжалява за миналото. Поставя си нови цели и сформира <i>Epica</i>, с които достига висините на симфоничния метъл. Скоро <i>Epica</i> се превръща в една от най-важните групи в жанра.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/49-Epica
