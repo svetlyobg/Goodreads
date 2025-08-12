@@ -16,4 +16,4 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet%20Metal/48-Avenged-Sevenfold
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/48-Avenged-Sevenfold
