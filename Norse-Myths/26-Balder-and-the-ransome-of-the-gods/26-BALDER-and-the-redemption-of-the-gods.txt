@@ -1,4 +1,4 @@
-* Title: БАЛДЕР и откупът на боговете
+* Title: БАЛДЕР и изкуплението на боговете
 * Issue: 26
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
@@ -17,4 +17,4 @@
 * Language (for non-English books): Bulgarian
 
 * Link to book page:
-https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/26-BALDER-and-the-ransome-of-the-gods
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/26-BALDER-and-the-redemption-of-the-gods
