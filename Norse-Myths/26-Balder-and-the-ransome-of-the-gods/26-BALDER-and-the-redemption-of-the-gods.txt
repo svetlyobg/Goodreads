@@ -2,17 +2,17 @@
 * Issue: 26
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): 
-* Illustrator(s): (cover & title page), (internal illustrations)
+* Author(s) name(s): Aranzazu Serrano Lorenzo
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
 * Publication Date Month: August
 * Publication Date Day: 18
-* Page count: 118
+* Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Балдер е най-милият от синовете на Один, има най-чиста душа. Обичан е от всички, но не и от Локи. След кърваво сражение в Алфхайм владетелят на Асгард, убеден, че Балдер трябва да кали духа си, го изпраща в Мидгард с важна задача. Локи вижда в това пътуване идеалната възможност да покаже на всички, че дори най-невинният от боговете може да прегърне мрака и да извърши непростимо деяние. Жертва на интригите на Локи, Балдер открива нещо съвсем неочаквано в света на хората: богинята Нана, в която се влюбва, и брат си Хьод, който иска да се ожени за нея.
 
 * Language (for non-English books): Bulgarian
 
