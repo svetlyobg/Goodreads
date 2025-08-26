@@ -2,7 +2,7 @@
 * Issue: 27
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): Aranzazu Serrano Lorenzo
+* Author(s) name(s): David Dominguez
 * Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
@@ -12,7 +12,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Зигфрид разваля заклинанието, потопило Брунхилда в дълъг и самотен сън между стените на крепостта Хиндарфял. Сега сърцата на двамата млади са свързани с друго заклинание – любов, но срещу техните чувства се изправят препятствия, дори по-страшни от огнения пръстен, обграждащ Хиндарфял. За да ги преодолее, Зигфрид е принуден да се впусне в опасни приключения, докато стъпките му не го отвеждат в страната на Нибелунгите, където гъста, вечна мъгла прониква в сетивата и обърква душата. Там съдбата на последния от Волсунгите претърпява неочакван обрат.
 
 * Language (for non-English books): Bulgarian
 
