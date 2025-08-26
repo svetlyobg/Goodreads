@@ -1,0 +1,20 @@
+* Title: РАГНАРЬОК и новият свят
+* Issue: 28
+* Series Link: https://www.goodreads.com/series/418571
+* Genres: Mythology, Fantasy, Roman, Fiction, Novels
+* Author(s) name(s): David Dominguez
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2025
+* Publication Date Month: September
+* Publication Date Day: 02
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: 
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/28-RAGNAROK-and-the-New-World
