@@ -1,0 +1,19 @@
+* Title: Planet Metal #50: Foo Fighters
+* Issue: 50
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Genres: Music
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: September
+* Publication Date Day: 09
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: За да накара хората да забравят образа му на бивш барабанист на най-важната група от 90-те години, Дейв Грол хваща китарата и микрофона. <i>Foo Fighters</i> могат да бъдат приети за наследници на <i>Nirvana</i>, но те не са нито сурогат, нито техен клонинг. Музикантите използват смесица от поп мелодии и хеви метъл звучене, за да наложат собствения си стил. От герой на заден план Дейв се превръща в истински фронтмен на <i>Foo Fighters</i> – една от най-активните и интересни групи в десетилетията на алтернативния рок.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/50-Foo-Fighters
