@@ -2,7 +2,7 @@
 * Issue: 31
 * Series Link: https://www.goodreads.com/series/409925
 * Genres: History
-* Author(s) name(s): Pablo Sánchez
+* Author(s) name(s): Xavier Vilaltella
 * Illustrator(s): Pau Taverna (cover)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Emse Edapp S. L.
@@ -13,7 +13,7 @@
 * Page count: 144
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
 
-* Description: 
+* Description: Министър-председателят на Япония Xugeku Тоджо (1884 – 1948) през по-голямата част от Втората световна война е една от най-известните и противоречиви фигури в новата история на страната. Като високопоставен военен Тоджо насърчава империалистическата експанзия на Япония в Азия, която води до окупиране на Корея, Китай и други страни. Под негово управление са извършени чудовищни престъпления срещу човечеството, като клането в Нанкин, при което стотици хиляди хора са убити, изнасилени и измъчвани от японците. След капитулацията на Япония през 1945 г. Тоджо е арестуван, съден и екзекутиран за военни престъпления.
 
 * Language (for non-English books): Bulgarian
 
