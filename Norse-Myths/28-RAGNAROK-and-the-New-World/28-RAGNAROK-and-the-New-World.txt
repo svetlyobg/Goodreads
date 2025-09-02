@@ -1,9 +1,9 @@
-* Title: РАГНАРЬОК и новият свят
+0* Title: РАГНАРЬОК и новият свят
 * Issue: 28
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): David Dominguez
-* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Author(s) name(s): Xavier V. Alemany
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -12,7 +12,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Малцина се спасяват след опустошителния Рагнарьок: няколко богове начело с Балдер – син на Один, група джуджета, шепа елфи и двама от света на хората. Докато всички те осъзнават мащабите на опустошенията, причинени от яростта на безпощадния великан Сурт, в небето се заражда изобилен свят, който ще даде нов шанс на оцелелите. Възстановяването на живота обаче коства усилия, болка и дори смърт. Предстоят времена на големи трудности, които ще могат да бъдат преодолени само ако всички се изправят срещу тях заедно. Дали героите ще се справят с новото предизвикателство?
 
 * Language (for non-English books): Bulgarian
 
