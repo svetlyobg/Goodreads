@@ -2,7 +2,7 @@
 * Issue: 29
 * Series Link: https://www.goodreads.com/series/418571
 * Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): Xavier V. Alemany
+* Author(s) name(s): Javier Yanes, Juan Carlos Moreno
 * Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
@@ -12,9 +12,8 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: В блатата живее страховитото създание Грендел и дълги години сее скръб и опустошение в кралство Aейре, без тамошният владетел, крал Хродгар, да успее да открие как да го победи. Беоулф, воин от Готия, на когото всички се възхищават, прекосява морето, за да се изправи срещу това проклятие. Героят се надява, че така ще се отплати за помощта, която Хродгар преди години е оказал на покойния му баща Едгет. Докато кралят и хората му се изправят пред най-тежката битка в живота си, Беоулф открива, че историята на баща му крие загадки, които предстои да бъдат разбулени.
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page:
-https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/29-BEOWULF-and-the-cursed-palace
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/29-BEOWULF-and-the-cursed-palace
