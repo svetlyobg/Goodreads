@@ -1,0 +1,19 @@
+* Title: Planet Metal #51: Ted Nugent
+* Issue: 51
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Genres: Music
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: September
+* Publication Date Day: 23
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Тед Нюджент сам си измисля прякора <i>The Motor City Madman</i>. Китаристът обича да изтъква дивата си природа, която чудесно пасва на хард рока. Тед създава собствено специфично китарно звучене. Основателят на <i>Free-For-All</i> и <i>Scream Dream</i> успява да привлече много врагове. Ултраконсервативните ценности, които изповядва, контрастират толкова ярко със света на рока, че той бива изхвърлен от него. Все пак обаче запазва мястото си като един от пионерите, наложили великото американско звучене.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/50-Foo-Fighters
