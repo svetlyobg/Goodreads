@@ -1,9 +1,8 @@
 * Title: ТОР и Мидгардската змия
 * Issue: 30
 * Series Link: https://www.goodreads.com/series/418571
-* Genres: Mythology, Fantasy, Roman, Fiction, Novels
-* Author(s) name(s): Javier Yanes, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Author(s) name(s): Alvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -12,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Предзнаменованията за Рагнарьок стават все повече, а в това време до Один достигат обезпокоителни слухове за необичайно големите размери, до които е нараснала змията Йормунганд. За да повдигне духа на обитателите на Асгард, той решава да даде пищен пир и поверява организацията му на великана Егир. Нещата се усложняват, когато Егир не успява да намери достатъчно голям котел, в който да свари бира за празника. Тор и старият приятел на Один – Тир, тръгват към Йотунхайм, опасната земя на великаните, за да се сдобият с подходящия съд и в същото време да разберат какво се случва с голямата змия.
 
 * Language (for non-English books): Bulgarian
 
