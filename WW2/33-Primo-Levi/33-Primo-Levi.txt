@@ -2,7 +2,7 @@
 * Issue: 33
 * Series Link: https://www.goodreads.com/series/409925
 * Genres: History
-* Author(s) name(s): Andrea Brunetti
+* Author(s) name(s): Jamie Moreno Delgado
 * Illustrator(s): Pau Taverna (cover)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Emse Edapp S. L.
@@ -13,7 +13,7 @@
 * Page count: 144
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
 
-* Description: 
+* Description: Творчеството на Примо Леви – италиански писател и химик от еврейски произход, оцелял в лагера на смъртта Аушвиц, е едно от най-ясните, трезви и трогателни свидетелства за ужаса, причинен от нацисткия фанатизъм и съучастниците му. Неговият глас и днес предупреждава за опасностите от дехуманизирането на „другия“, на различния.
 
 * Language (for non-English books): Bulgarian
 
