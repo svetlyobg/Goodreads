@@ -1,7 +1,6 @@
 * Title: Planet Metal #51: Ted Nugent
 * Issue: 51
 * Series Link: https://www.goodreads.com/series/380276-planet-metal
-* Genres: Music
 * Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
 * Illustrator(s): Susanna Pedone, Andrea Valentini
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
@@ -16,4 +15,4 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/50-Foo-Fighters
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/51-Ted-Nugent
