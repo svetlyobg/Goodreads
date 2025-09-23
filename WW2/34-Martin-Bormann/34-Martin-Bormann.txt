@@ -1,0 +1,20 @@
+* Title: Мартин Борман. Тъмната сянка на Хитлер
+* Issue: 34
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Victor Ucar Rivases
+* Illustrator(s): Pau Taverna (cover)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: September
+* Publication Date Day: 23
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Мартин Борман остава в историята с железния контрол, който упражнява над администрацията на Третия райх като личен секретар на Адолф Хитлер, както и с ролята си на ръководител на канцеларията на нацистката партия. Политическата му прозорливост и най-вече непоколебимата му лоялност към фюрера му позволяват да придобие значителна власт в структурата на режима – за голямо огорчение на други важни нацистки фигури, като Химлер и Гьобелс. Смъртта му през 1945 г., докато се спасява от бункера на Хитлер по време на битката за Берлин, е обект на много спекулации, които десетилетия наред подхранват теориите за възможното му бягство и укриване.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/34-Martin-Bormann
