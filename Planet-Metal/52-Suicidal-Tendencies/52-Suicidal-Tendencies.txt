@@ -1,0 +1,18 @@
+* Title: Planet Metal #52: Suicidal Tendencies
+* Issue: 52
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: October
+* Publication Date Day: 07
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Suicidal Tendencies</i> дълго време са смятани за една от групите, чиято музика трудно може да бъде отнесена към съществуващите музикални жанрове. В действителност нейното звучене може точно да се представи само с двете думи „траш“ и „метъл“. Групата свири най-бързия и агресивен хеви метъл и траш, както и най-радикалния пънк, примесен с хардкор. Когато <i>Suicidal Tendencies</i> изгряват на сцената, общественото мнение им предрича скоропостижен провал. Музикантите обаче надминават всички очаквания. Те създават оригинален стил, който се отличава с хибридната си природа, и категорично показват, че ще останат още дълго.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/52-Suicidal-Tendencies
