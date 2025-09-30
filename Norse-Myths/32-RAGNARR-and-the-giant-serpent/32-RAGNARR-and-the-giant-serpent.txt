@@ -1,8 +1,8 @@
 * Title: РАГНАР и гигантската змия
 * Issue: 32
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s): Jordi Sole, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Author(s) name(s): Xavier V. Alemany, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Ужасяваща змия всява страх сред жителите на Лангард в Готия. Храбрите мъже, които опитват късмета си срещу нея, умират един след друг. Херуд, господарят на тези земи, обещава щедра награда на онзи, който успее да убие чудовището: ръката на дъщеря си Тора, както и златото, което змията е трупала дълго време. Младият и безстрашен Рагнар Лодброк решава да приеме предизвикателството и да се изправи срещу гигантското влечуго със смелостта и решителността на начинаещ воин. Ще успее ли да се справи?
 
 * Language (for non-English books): Bulgarian
 
