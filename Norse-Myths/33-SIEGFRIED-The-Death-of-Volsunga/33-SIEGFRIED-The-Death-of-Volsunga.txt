@@ -1,4 +1,4 @@
-* Title: Смъртта на ЗИГФРИД
+* Title: ЗИГФРИД смъртта на Волсунга
 * Issue: 33
 * Series Link: https://www.goodreads.com/series/418571
 * Author(s) name(s): Xavier V. Alemany, Juan Carlos Moreno
@@ -15,4 +15,4 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/33-SIEGFRIEDs-Death
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/33-SIEGFRIED-The-Death-of-Volsunga
