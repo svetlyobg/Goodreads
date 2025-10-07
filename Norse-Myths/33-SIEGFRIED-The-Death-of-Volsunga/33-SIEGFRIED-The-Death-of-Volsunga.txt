@@ -1,8 +1,8 @@
 * Title: ЗИГФРИД смъртта на Волсунга
 * Issue: 33
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s): Xavier V. Alemany, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Author(s) name(s): David Dominguez, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,8 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Откакто вижда голяма част от съдбата си в поличбения сън при чичо си Грипи, Зигфрид преживява приказни приключения, които го превръщат в герой. Но се сблъсква и с драматични събития, резултат от човешки желания и страсти. В свят, в който завистта, страхът, гневът и омразата владеят сърцата на хората около него, Зигфрид трябва да се изправи пред последното
+изпитание, от което зависи бъдещето му в Мидгард – страната на хората.
 
 * Language (for non-English books): Bulgarian
 
