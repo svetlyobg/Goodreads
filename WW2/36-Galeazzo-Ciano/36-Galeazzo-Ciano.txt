@@ -1,0 +1,19 @@
+* Title: Галеацо Чано. Сянката на дуче
+* Issue: 36
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Mar Corrales
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: October
+* Publication Date Day: 7
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Италианският дипломат и политик Галеацо Чано е водеща фигура във фашисткия режим след брака си с дъщерята на дуче Еда Мусолини. Назначен е за министър на външните работи през 1936 г., играе ключова роля в империалистическата експанзия на Италия, участва в Гражданската война в Испания и в подписването на Стоманения пакт между Италия и Германия – съюз, който ще доведе страната му до разруха след влизането ѝ във Втората световна война. Животът на Чано е история на открито антигермански настроен човек, който изразява несъгласието си с нацистка Германия в рамките на фашистката система, а това го отчуждава от тъста му и го поставя в опасно противоречие с Адолф Хитлер. През 1943 г. гласува за свалянето на Мусолини в Големия фашистки съвет, което води до край на режима. Това предателство му струва арестуване, а след съкратен съдебен процес е екзекутиран.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/36-Galeazzo-Ciano
