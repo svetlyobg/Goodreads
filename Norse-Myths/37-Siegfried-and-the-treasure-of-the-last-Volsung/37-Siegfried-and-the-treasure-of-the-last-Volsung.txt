@@ -1,8 +1,8 @@
 * Title: Зигфрид и съкровището на последния Волсунг
 * Issue: 37
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Xavier V. Alemany, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Author(s) name(s):  David Dominguez, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description:
+* Description: Проклятие тегне върху гривната Андваринаут и носи нещастие на онези, които пожелаят да я притежават. Съдбовното ѝ влияние е много силно в свят, в който героичните дела на легендарния Зигфрид са вече само спомен. Беззащитната му вдовица Гудрун, неумолимите Нибелунги, водени от старата господарка Гримхилда, и грубият и свиреп хунски владетел Атли са главните герои в последното действие на историята, започнала в далечния тъжен ден, когато бог Локи открадва гривната от джуджето Андвари.
 
 * Language (for non-English books): Bulgarian
 
