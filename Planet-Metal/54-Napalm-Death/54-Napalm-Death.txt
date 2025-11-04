@@ -11,7 +11,7 @@
 * Page count: 64
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: В средата на 80-те години <i>Napalm Death<\i> събарят границите на звуковия радикализъм със смесица от хардкор пънк и екстремен метъл. След 40 години, белязани от промени и трагедии, групата от Бирмингам все още е в редиците на новаторите и предлага рецепта, забъркана от индъстриъл, нойз и още нещо. <i>Napalm Death<\i> са яки, записват албуми редовно и те се продават!
 
 * Language (for non-English books): Bulgarian
 
