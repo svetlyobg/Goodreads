@@ -1,8 +1,8 @@
-* Title: Беоулф. Началото на Готите
+* Title: БЕОУЛФ. Началото на Готите
 * Issue: 38
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  David Dominguez, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Въпреки че северните народи живеят в привиден мир и спокойствие, не след дълго на повърхността изплуват прикрити вражди и кръвни дългове, а древните съюзи са нарушени. Когато Хродгар от Лейре е убит от член на своя род, подкрепян от свеите, останалият сам и заплашван от враговете си ярл Хюгелак от Готия решава да премине в настъпление. На Беоулф, прочутия герой на готите, ще се наложи да се изправи пред предизвикателства, които изискват не само всичките му умения с меча, но и хитрост, за да се справи с коварните ситуации.
 
 * Language (for non-English books): Bulgarian
 
