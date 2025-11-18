@@ -11,7 +11,7 @@
 * Page count: 64
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: <i>System Of A Down</i>, създадена от четирима калифорнийски музиканти от арменски произход, се утвърждава в рамките на едно десетилетие като най-популярната и интересна ню метъл група. Въпреки че квартетът не е издавал нищо значимо от 2005 г., членовете му все още са много активни и гордо носят знамето на общността Армения, от която произлизат.
 
 * Language (for non-English books): Bulgarian
 
