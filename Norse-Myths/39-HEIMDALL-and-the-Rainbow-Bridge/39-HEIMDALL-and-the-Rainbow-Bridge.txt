@@ -1,8 +1,8 @@
 * Title: ХЕЙМДАЛ и мостът от дъга
 * Issue: 39
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Author(s) name(s):  Manuel Guedan, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Деветте дъщери на господаря на морските дълбини Егир и богинята на моретата Ран копнеят да станат майки, но неукротимият им и буен характер постоянно им пречи. За да ги успокои, Один им отправя предизвикателство: ако успеят да създадат ново същество, което да притежава тяхната жизненост и чувствителност, той самият ще го признае за собствено дете. От общите им усилия се ражда Хеймдал – син, който с годините развива удивителни качества. Със своите невероятни дарби Хеймдал се отправя към Мидгард – хаотичния свят на хората, за да въведе ред сред неговите обитатели. Заради работата, на която се отдава там търпеливо и пълноценно, Один му възлага задачата да стане пазител на Бифрьост – моста от дъга, който свързва Асгард с останалите светове.
 
 * Language (for non-English books): Bulgarian
 
