@@ -1,0 +1,18 @@
+* Title: Planet Metal #56: Dream Theater
+* Issue: 56
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: Devember
+* Publication Date Day: 2
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: В света на метъла, когато китарата вече не е доминиращият инструмент, трябва да се намерят алтернативни решения. Така се ражда прогресив метълът - жанр, чиито най-видни представители са <i>Dream Theater</i>. Страстни почитатели на твърдия звук и тежката музика - от <i>Led Zeppelin</i> до <i>Van Halen</i>, но влюбени и във виртуозността на Ингви Малмстийн и лиричните изблици на <i>Yes</i>, <i>Dream Theater</i> майсторски комбинират всичко, което им харесва, и създават епична музика, чичто магическа формул пазят ревниво.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/56-Dream-Theater
