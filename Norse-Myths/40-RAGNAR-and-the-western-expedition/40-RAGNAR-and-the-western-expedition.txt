@@ -12,6 +12,7 @@
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
 * Description: 
+
 * Language (for non-English books): Bulgarian
 
 * Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/40-RAGNAR-and-the-western-expedition
