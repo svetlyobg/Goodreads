@@ -1,8 +1,8 @@
 * Title: БЕОУЛФ и драконът
 * Issue: 41
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Xavier V. Alemany, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Много години изминават, откакто Беоулф води битките, които го превръщат в легендарен герой. Северните народи живеят в мир, но над тях надвисва нова заплаха. Страховит дракон, който спи от незапомнени времена, се надига, опустошава селата на Готия и всява ужас сред жителите им. Уважаваният от всички и все така смел, но вече много възрастен Беоулф се изправя пред ново предизвикателство. Цената на победата вероятно ще е висока, но може би ще му позволи да открие нещо, което отдавна чака.
 
 * Language (for non-English books): Bulgarian
 
