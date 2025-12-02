@@ -1,0 +1,18 @@
+* Title: Planet Metal #57: Pantera
+* Issue: 57
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: Devember
+* Publication Date Day: 16
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Благодарение на своята упоритост и всеотдайност <i>Pantera</i> успяват да пробият с неподражаем си стил, който става култов и определя цяла епоха. Групата от Тексас е въплъщение на груув метъл - хибриден стил траш метъл, който постига огромен успех през 90-те години и се превръща в модел за подражание. Историята обаче ще запомни <i>Pantera</i> по-скоро с приноса ѝ към метъла и с убийството на нейния основател китариста Даймбег Даръл, който е смъртоносно прострелян по време на концерт.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/57-Pantera
