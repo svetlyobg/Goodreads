@@ -1,8 +1,8 @@
 * Title: ВОЛСУНГИ. Мечът на яростта
 * Issue: 42
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Author(s) name(s):  Alvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Вьолунд, наследник на елфическите земи Улфдали, и братята му Егил и Слагфид са женени за три смели валкирии и живеят щастливо. На спокойствието им слага край Один, който призовава трите жени на оръжие. Тогава Вьолунд, който е опитен ковач и може да изработва прекрасни накити, решава да се посвети на изковаването на приказния меч Грам. Талантът му на златар обаче привлича вниманието на злия елф Нидуд, който с измама успява да го плени и да го пороби, за да работи само за него. Ще успее ли Вьолунд да се освободи и да отмъсти на похитителя си?
 
 * Language (for non-English books): Bulgarian
 
