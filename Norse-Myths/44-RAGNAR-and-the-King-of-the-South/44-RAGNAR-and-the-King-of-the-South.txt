@@ -1,8 +1,8 @@
 * Title: РАГНАР и Кралят на Юга
 * Issue: 44
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Antonio Jimenez Morato, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Author(s) name(s):  Silvia Gonzalez Laa, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Скръб разяжда сърцето на Рагнар Лодброк. Не е отмъстил за смъртта на най-големите си синове, Ейрик и Агнар, и това го изпълва с печал. Страда цял Мидборг, който сега изнемогва, лишен от водачеството на своя ярл. Все пак настъпва денят, в който Рагнар успява да се измъкне от бездната на тъгата, и призовава останалите вождове да се включат в мисия, която изисква голяма отдаденост. След като премахва страховете им, героят ги убеждава да се впуснат в ново начинание – да нападнат златен град, богат и внушителен, окъпан от пълноводна река, в сърцето на земите на франките: Париж.
 
 * Language (for non-English books): Bulgarian
 
