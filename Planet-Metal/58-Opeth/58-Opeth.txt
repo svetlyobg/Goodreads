@@ -1,0 +1,18 @@
+* Title: Planet Metal #58: Opeth
+* Issue: 58
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2025
+* Publication Date Month: Devember
+* Publication Date Day: 30
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Opeth</i> заема много специално място в гъмжащата от изпълнители скандинавска метъл сцена. Те са една от малкото групи, които са доказали, че са способни да смесват най-екстремни и прогресив влияния, без никога да попадат в капана на „зрелище заради самото зрелище“, като същевременно съумяват да изразят типично шведската меланхолия. Групата на Микаел Акерфелд вече е съзряла, но продължава да еволюира.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/58-Opeth
