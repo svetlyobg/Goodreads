@@ -1,8 +1,8 @@
 * Title: ОД стрелата и предсказанието на вьолвата
 * Issue: 45
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Silvia Gonzalez Laa, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Author(s) name(s):  Jordi Sole, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2025
@@ -11,8 +11,8 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Искрена братска любов свързва Асмунд и осиновения му брат Од. Двамата прекарват дните, като тренират с оръжия, щастливи от разбирателството помежду си и от другарството, което ги обединява. Един ден обаче хармонията между двамата е нарушена: бащата на младежите Ингялд им съобщава, че ще организира пиршество, на което е поканена и магьосница на име Хейд. Новината предизвиква подозренията на Од, който е изпълнен с недоверие към гостенката. Скоро опасенията му се потвърждават: въолвата предсказва бъдещето на Од и това отключва верига от тревожни събития.
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/45-Oddr-the-Archer-and-the-Sorceress's-Prophecy
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/45-ODDR-the-Archer-and-the-Sorceress's-Prophecy
