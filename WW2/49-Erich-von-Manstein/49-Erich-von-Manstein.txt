@@ -1,0 +1,19 @@
+* Title: Ерих фон Манщайн. Най-добрият командир на Втората световна война
+* Issue: 49
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jaime Moreno
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2025
+* Publication Date Month: January
+* Publication Date Day: 06
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Военната историография почти единодушно оценява Ерих фон Манщайн като най-добрия командир на Втората световна война. Въпреки че не споделя националсоциалистическите идеали, той проявява непоколебима лоялност към режима на Хитлер до края на войната и защитава честта на Вермахта след нея.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/49-Erich-von-Manstein
