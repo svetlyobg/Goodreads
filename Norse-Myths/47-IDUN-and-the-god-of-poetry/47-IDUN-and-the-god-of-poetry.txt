@@ -1,7 +1,7 @@
 * Title: ИДУН и богът на поезията
 * Issue: 47
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Alvaro Marcos, Juan Carlos Moreno
+* Author(s) name(s):  Louis Villalon, Juan Carlos Moreno
 * Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
@@ -11,7 +11,8 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: От верния си Скирнир бог Фрей научава, че в Алфхайм, страната на елфите, живее младата Идун. Освен че е изключително красива, тя има дарба да общува с дърветата. Девойката е свързана с ябълкова градина, чиито плодове имат прекрасен вкус и наситеночервен цвят. Освен това тези чудни ябълки, по думите на елфите, дават младост и сила на онзи, който вкуси от тях. Отчаян, Фрей отнася един от плодовете на лежащия на прага на смъртта Один. Това не само ще върне първия от боговете към живот, но и ще обърне завинаги съдбата на Идун и на ябълковата ѝ градина.
+
 
 * Language (for non-English books): Bulgarian
 
