@@ -1,0 +1,19 @@
+* Title: Planet Metal #60: Gojira
+* Issue: 60
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Jean-Michel Guesdone, Guillame "Ged" Dumazer
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: January
+* Publication Date Day: 27
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Gojira</i> са квинтесенция на историята на успеха на френския метъл. Братя Дюплантие, родени в семейство на артисти, израстват в Югозападна Франция. В средата на 90-те години посяват семената на това, което ще се превърне в <i>Gojira</i>. Бавно, но сигурно градят основи и петнайсет години по-късно препълват до пръсване националния „Стад дьо Франс". Дискографията им е прекрасно пътешествие, където екологичното съзнание среща истинския хард метъл.
+
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/60-Gojira
