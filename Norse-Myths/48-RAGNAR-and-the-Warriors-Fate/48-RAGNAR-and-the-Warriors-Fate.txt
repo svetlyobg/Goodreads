@@ -1,8 +1,8 @@
 * Title: Рагнар и съдбата на Воина
 * Issue: 48
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Louis Villalon, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Author(s) name(s): Silvia Gonzalez Laa , Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2026
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Решен да осуети коварните планове на краля на Нортумбрия, Рагнар Лодброк се отправя на безразсъдно, но достойно за възхищение пътешествие на запад. Придружен от Еделгард, верния франк, ярлът на Мидборг трябва да открие значението на думите на магьосницата Гунхилда. Какво ще се случи, когато смелият викинг се изправи срещу краля на враждебната страна, наричан Ела Змията? И каква съдба очаква Рагнар?
 
 
 * Language (for non-English books): Bulgarian
