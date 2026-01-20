@@ -1,0 +1,20 @@
+* Title: Софи Шол. Смелосtта да кажеш "не"
+* Issue: 51
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Luigi Guaineri
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: January
+* Publication Date Day: 20
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: На 18 февруари 1943 г. Софи Шол изкачва стълбите на Мюнхенския университет с шепа листовки под мишница. Тя ги пуска да летят към двора: думи срещу лъжата, песни за свободата. Няколко часа по-късно е арестувана. Четири дни по-късно е обезглавена. Това е историята на 21-годишна млада жена, която заедно с брат си Ханс, един от основателите на „Бялата роза“, избира да не мълчи. Те са прекарали младите си години в носене на униформи и повтаряне на идеология, която презират, докато тайно култивират представа за свобода, подхранвана от философия, изкуство и християнство. Те искат да пробудят съвестта на германския народ, подчинен на конформизъм и на престъпно правителство. Но това е и жест на гняв от отнетата младост, открадната от власт, която използва думите само в името на възвеличаване на сляпото подчинение, силата и култа към войната.
+
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page:
+https://github.com/svetlyobg/Goodreads/tree/main/WW2/51-Sophie-Scholl
