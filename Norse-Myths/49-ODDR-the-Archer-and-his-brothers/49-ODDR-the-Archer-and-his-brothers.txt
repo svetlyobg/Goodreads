@@ -1,8 +1,8 @@
 * Title: ОД Стрелата и неговите братя
 * Issue: 49
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s): Silvia Gonzalez Laa , Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Author(s) name(s): Jordi Sole , Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2026
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Окуражен от победите, с които се прославя сред викингите след пътуването до Бярмаланд, Од моли баща си Грим да му даде възможност да се изправи срещу други храбри противници, за да се сдобие с повече известност. Сред тези противници двама се отличават като непобедими и смели: Хялмар Храбрия и Торд Стафанглам – Зоркото око. И двамата разполагат с мощна флота, но това не плаши Од, който не се колебае да тръгне срещу тях заедно с брат си Асмунд, който е негов неразделен спътник в битките. Какво ги очаква в това дръзко приключение? Каква ще бъде цената на славата?
 
 
 * Language (for non-English books): Bulgarian
