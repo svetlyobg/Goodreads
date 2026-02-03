@@ -1,0 +1,20 @@
+* Title: ЕГИЛ Проклятието и дарът на вълка
+* Issue: 50
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s): Javier Yanes , Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: February
+* Publication Date Day: 02
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Далеч в Исландия, на западното крайбрежие на острова, в село Борг, живеел малкият Егил, син на фермери. Понякога нощем, особено когато Луната била пълна, тайнствени пристъпи на ярост обземали детето и то се превръщало в звяр. Малкият мислел, че е прокълнат от боговете. Веднъж обаче се случила голяма трагедия и бащата на Егил бил принуден да признае пред
+сина си, че историята на семейството, която му бил разказвал, е измислена: истината пазела
+тъмни тайни и хвърляла сянка върху съдбата му.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/50-EGILL-and-the-Wolfs-Curse
