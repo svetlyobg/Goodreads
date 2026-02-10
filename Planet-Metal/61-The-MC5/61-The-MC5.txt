@@ -1,0 +1,18 @@
+* Title: Planet Metal #61: The MC5
+* Issue: 61
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: February
+* Publication Date Day: 10
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Метрополисът на щата Мичиган Детройт символизира величието и упадъка на част от САЩ. Точно на тази част са представителна извадка <i>Motor City Five</i>, или <i>MC5</i>. Радикални текстове, хард рок, рокендрол и енергични изпълнения са в основата на постепенния възход на групата. Музиката ѝ, в която са вкоренени традициите на „хард уъркинг банд“, се блъска като парен чук в стената на консервативните и параноични институции на Америка. За щастие обаче, също като Детройт, групата винаги успява да се изправи на крака, за да нанесе следващ удар.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/61-The-MC5
