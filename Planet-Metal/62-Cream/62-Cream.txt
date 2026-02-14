@@ -1,0 +1,18 @@
+* Title: Planet Metal #62: Cream
+* Issue: 62
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: February
+* Publication Date Day: 24
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: От средата на 60-те години <i>Cream</i> преосмислят електрическия блус на Мъди Уотърс и Хаулин Уулф. Групата, съставена от виртуозните музиканти Ерик Клептън – китара, Джак Брус – бас китара, Джинджър Бейкър – барабани, оставя майсторски импровизации и тежко звучене, което предшества както психеделичния рок, така и хард рока. Само с четири албума, сред които сензационните и новаторски <i>Fresh Cream</i> и <i>Disraeli Gears</i>, триото изнася много концерти. Музиката му се превръща в отправна точка за следващите поколения професионалисти, които от края на ревящите шейсет започват да търсят изразни средства чрез бурно развиващия се метъл.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/62-Cream
