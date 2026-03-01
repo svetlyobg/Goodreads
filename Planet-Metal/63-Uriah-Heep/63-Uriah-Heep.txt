@@ -1,0 +1,18 @@
+* Title: Planet Metal #63: Uriah Heep
+* Issue: 63
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 10
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Юрая Хийп е герой от романа на Чарлз Дикенс „Дейвид Копърфийлд", но това е и името на една от най-известните в света рок групи. Те са едни от първите, които смесват хард и прогресив рок. От втората половина на 60-те години до днес, въпреки многобройните промени в състава, групата издава впечатляващите 25 студийни албума и продължава да изнася концерти по целия свят, сякаш времето няма власт над музиката им.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/63-Uriah-Heep
