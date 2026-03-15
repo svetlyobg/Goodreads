@@ -1,0 +1,18 @@
+* Title: Planet Metal #64: Cannibal Corpse
+* Issue: 64
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 24
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Буквалното значение на <i>Cannibal Corpse</i> е "Труп на канибал". Зад това крещящо име, което напомня за специфични деликатеси, се крие едно от най-опустошителните въплъщения на дет метъла, на екстремния музикален стил, появил се в края на 80-те години. Групата от Източното крайбрежие е сред главните архитекти на този стил и дори днес, повече от 30 години след създаването ѝ, остава една от най-значимите.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/64-Cannibal-Corpse
