@@ -1,0 +1,18 @@
+* Title: Мордехай Аниелевич. Водач на въстанието във Варшавското гето
+* Issue: 58
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Juan Carlos Moreno
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 10
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Издяването чувство за справедливост и бунтарският дух караг Мордехай Аниелевич винаги да се противопоставя на злоупотребите с власт. Ангажираността му с еврейската кауза, култивирана от ранна възраст, се засилва още повече, след като се присъединява към „Хашомер Хацаир" - полска младежка организация с ционистка и социалистическа ориентация, на която става един от лидерите. Мечтае да се установи в Палестина и да допринесе за създаването на еврейска държава. След нахлуването на Германия на Хитлер в Полша той се посвещава на борбата с нацистите и с антисемитската им политика. След като се убеждава, че те преследват изтребването на евреите, той организира въстание във Варшавското гето. Знае, че то е обречено на неуспех, но е в защита на достойнството на неговия народ.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/58-Mordechai-Anielewicz
