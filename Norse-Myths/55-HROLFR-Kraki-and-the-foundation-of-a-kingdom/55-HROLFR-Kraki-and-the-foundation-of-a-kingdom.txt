@@ -1,8 +1,8 @@
 * Title: ХРОЛФ Краки. Основаването на кралството
 * Issue: 55
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Jordi Solé, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Author(s) name(s):  Manuel Guedán, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yéspica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2026
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Хролф Краки е велик датски воин, известен със своята храброст и ум. Спечелва почитта на своя народ с успехите си на бойното поле, но не на всички. Доведената му сестра Скулд недоволства, защото Краки отказва да остави Лейре в нейните ръце, когато той, ангажиран с военни походи, отсъства от града. Освен това Скулд упреква брат си, че се хвали с постиженията си, но все още не е отмъстил на Адиас, могъщия вожд на Упсала, убиеца на баща им. Напрежението между брата и сестрата се засилва и води до неподозиран развой на събитията.
 
 * Language (for non-English books): Bulgarian
 
