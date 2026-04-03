@@ -1,0 +1,18 @@
+* Title: Оскар Дирлевангер. Най-тъмната сянка на нацизма
+* Issue: 60
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Elisabet Jorda
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 24
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Ветеранът от Голямата война и Гражданската война в Испания Оскар Дирлевангер е командир на прочута бригада, съставена предимно от престъпници и бивши затворници и известна с изключителната си жестокост. Извършените от него зверства - най-вече потушаването на съпротивата в Полша и Белорусия, го превръщат в една от най-страшните и ненавиждани фигури на Втората световна война. Кариерата му в СС се характеризира с изключителен садизъм и недисциплинираност, царица в неговата част, която е отговорна за много кланета на цивилни, включително за жестокото потушаване на Варшавското въстание през 1944 г. Умира при неясни обстоятелства през 1945 г., вероятно от ръцете на полски войници, докато е в затворнически лагер. Неговата фигура и историческото му наследство са пример за жестокостта на нацисткия военен апарат.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/60-Oskar-Dirlewanger
