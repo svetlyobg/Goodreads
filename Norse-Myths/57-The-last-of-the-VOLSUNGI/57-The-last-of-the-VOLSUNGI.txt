@@ -1,0 +1,18 @@
+* Title: ВОЛСУНГИ. Последният
+* Issue: 57
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Alvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 30
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Лионгви, свирепият вожа на хунлингите, ужасно се разгневява, когато Хьордис избира за свой съпруг Зигмунд. Красивата млада дъщеря на владетеля на Рейдготия дарява много щастие на възрастния Зигмунд, но Лионгви не забравя нанесената обида. Затова решава да започне война и повежда хората си срещу Зигмунд, който притежава легендарния меч Грам. Сражението се превръща в трагедия, а Хьордис трябва да бяга, за да не попадне в ръцете на Хунлингите. Тогава среща Алф и данците, сред които изгражда новия си живот.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/57-The-last-of-the-VOLSUNGI
