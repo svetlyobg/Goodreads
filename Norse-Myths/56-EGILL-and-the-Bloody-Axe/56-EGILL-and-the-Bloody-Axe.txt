@@ -1,0 +1,18 @@
+* Title: ЕГИЛ и кървавата брадва
+* Issue: 56
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: March
+* Publication Date Day: 23
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Малкият Егил от Исландия е ставал великан като баща си Скала-Грим и мечтае да стане велик воин като брат си Торолф, който кръстосва моретата в търсене на богатства. Съдбата обаче крие нови предизвикателства за исландците. Торолф се сприятелява с Ерик, сина на крал Харад, с когото Скала-Грим има стари сметки за уреждане. Като първи военачалник на великата обединена Норвегия, Торолф ще трябва да се справи с трудни ситуации, които поставят на изпитание лоялността към семейството и верността към краля.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/56-EGILL-and-the-Bloody-Axe
