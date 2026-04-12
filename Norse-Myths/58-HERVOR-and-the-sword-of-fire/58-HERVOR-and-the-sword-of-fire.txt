@@ -1,0 +1,18 @@
+* Title: ХЕРВЬОР и огненият меч
+* Issue: 58
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Eva Hibernia, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 6
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Хервьор е храбро и дръзко момиче. Тя е внучка на Бярмар, господаря на Сльоинге, който ден след ден с гордост наблюдава изумителния ѝ напредък с лъка и съобразителността, с която се справя в най-различни ситуации. Но когато падне нощта и всички потънат в сън, ужасни кошмари връхлитат Хервьор, стрясват я и я плашат. В тези моменти над нея бди Свафа, нейната майка, която я успокоява, когато се събужда замаяна. „Кошмарите ти - казва тя - не са нещо, от което трябва да се срамуваш, а привилегия". Какви тайни крият загадъчните думи на Свафа?
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/58-HERVOR-and-the-sword-of-fire
