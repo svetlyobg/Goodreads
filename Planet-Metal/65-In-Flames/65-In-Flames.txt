@@ -1,0 +1,18 @@
+* Title: Planet Metal #65: In Flames
+* Issue: 65
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 7
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Когато слушаме ранните сурови записи на <i>Death</i> и <i>Master</i>, е трудно да си представим, че дет метълът би могъл да "роди" група като <i>In Flames</i>. Първоначално музикантът е само един, но проектът му се развива и се превръща в пълноценна група. <i>In Flames</i> постига радикална музикална еволюция и успех в началото на новото хилядолетие.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/65-In-Flames
