@@ -1,0 +1,18 @@
+* Title: КВАЗИР и медовината на поезията
+* Issue: 60
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Guillermo Zapata, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 20
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Плод на помирението и съюза между двата божествени рода – Асите и Ваните, Квазир е квинтесенцията на всички качества и добродетели. Надарен с огромна мъдрост, той носи в себе си цялото познание на всички богове, но запазва детското у себе си. Проявява любопитство към всичко наоколо, изследва с жадния си и търсещ поглед всяко кътче на Мидгард и споделя знанията си с всички, които имат нужда от помощ. Един ден славата му стига до ушите на злите джуджета Фялар и Галар, които са алчни да се доберат до мъдростта на Квазир. Те замислят ужасяващ план, за да я присвоят. Действията им ще имат неочакван и драматичен край.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/60-KVASIR-and-the-mead-of-poetry
