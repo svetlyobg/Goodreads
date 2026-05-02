@@ -1,0 +1,18 @@
+* Title: Planet Metal #66: Stone Temple Pilots
+* Issue: 66
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 21
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Stone Temple Pilots</i> успяват да продадат близо 40 милиона записа по целия свят, но така и не пробиват в Европа. Групата се появява след <i>Pearl Jam</i> и <i>Nirvana</i>, но свири по-скоро авангарден метъл. Понякога обичани, друг път мразени, музикантите търсят начини да изразят въжделенията си и да изпеят страданието си. Стилът на изпълненията е изключително интересен, а с течение на времето звученето им дава тъмен на място. Нотката грънджрави подчертават различни <i>Stone Temple Pilots</i> от бунтарските настроения, които характеризират ранните им дни.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/66-Stone-Temple-Pilots
