@@ -15,4 +15,4 @@
 
 * Language (for non-English books): Bulgarian
 
-* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/63-Kim Philby
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/63-Kim-Philby
