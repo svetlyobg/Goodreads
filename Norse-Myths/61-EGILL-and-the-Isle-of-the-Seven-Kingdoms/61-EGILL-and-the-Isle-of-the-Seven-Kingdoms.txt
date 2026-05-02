@@ -1,0 +1,18 @@
+* Title: ЕГИЛ и островът на седемте кралства
+* Issue: 61
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 27
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Изминават години, откакто Егил и Торолф, синове на исландеца Скала-Грим, са принудени да бягат от Норвегия след неразрешим конфликт с крал Ерик Кървавата брадва. Междувременно двамата братя създават могъщ отряд от воини, наречен Братството. Заради непрестанно грозящата ги заплаха се налага отново да излязат в морето и след известно време достигат голям остров, където се подготвя война – крал Етелстан Победителя иска да обедини седемте англосаксонски кралства в едно: Англия.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/61-EGILL-and-the-Isle-of-the-Seven-Kingdoms
