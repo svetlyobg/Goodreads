@@ -1,0 +1,18 @@
+* Title: Хролф Краки и убиецът на Берсерки
+* Issue: 59
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Guillermo Zapata, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: April
+* Publication Date Day: 13
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Младият и буен Свипдаг живее в Еймиланд, отдалечено място в северната част на Свеаланд, с баща си, който е фермер, и двамата си братя Бейгад и Хвитсерк. Когато навършва пълнолетие, Свипдаг решава да изостави сивото и монотонно съществуване, да вземе оръжие и да служи на велик владетел. Баща му Свип най-накрая отстъпва пред желанието на сина си и му позволява да замине, но при едно условие: да бъде скромен, а не високомерен. Свипдаг скоро доказва храбростта си на бойното поле и побеждава свирепи воини, но бързо забравя съветите на баща си.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/59-HROLFR-Kraki-and-the-killer-of-the-Berserkers
