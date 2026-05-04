@@ -1,0 +1,18 @@
+* Title: ХРОЛФ Краки и Драконоубиецът
+* Issue: 62
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 4
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Бьовар е единственият „човешки“ син на жена, станала жертва на ужасно проклятие. Другите ѝ деца се раждат полуживотни. След като научава историята на семейството си и след срещата с чудовищните си братя, Бьовар решава да отпътува да служи на Хролф Краки, най-почитаният могъщ вожд на даните. Но когато пристига в залата на двореца с възмущение вижда как някои от воините на Хролф жестоко унижават човек на име Хьот. За да възстанови достойнството на този мъж, Бьовар се изправя пред много опасности, но предизвикателството...
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/62-HROLFR-Kraki-and-the-Dragon-Hero
