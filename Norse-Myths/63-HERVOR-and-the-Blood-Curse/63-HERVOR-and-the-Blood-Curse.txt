@@ -1,0 +1,18 @@
+* Title: ХЕРВЬОР и проклятието на кръвта
+* Issue: 63
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Álvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 11
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Нещастно събитие вследствие на безразсъдството на Хейдрек, по-малкия от синовете на ярла Хьофунд и смелата Хервьор, донася трагедия за семейството. Младежът трябва да плати за убийствената си небрежност и да понесе позорно изгнание, свързано и с огромно предизвикателство, наложено от майка му. Преди да замине, тя му дава вълшебния меч Тюрфинг, с който е извършила легендарни подвизи. За да изкупи вината си, Хейдрек трябва да се научи да владее това приказно оръжие и да се впусне в опасни приключения далеч от родината.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/63-HERVOR-and-the-Blood-Curse
