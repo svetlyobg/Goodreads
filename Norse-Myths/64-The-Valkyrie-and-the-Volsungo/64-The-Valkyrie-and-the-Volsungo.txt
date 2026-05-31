@@ -1,0 +1,18 @@
+* Title: ВОЛСУНГИ. Валкирията и Волсунгът
+* Issue: 64
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Álvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 18
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Хелги, по-големият син на Зигмунд и Боргхилда, въплъщава всички изключителни качества на Волсунгите. След като преживява трагичната смърт на своя доведен брат Синфьотли, когото обича и на когото се възхищава, той се превръща в прочут воин и уважаван водач. Има силен дух и се изправя не само срещу страховити врагове, но и срещу капризната съдба. В живота на Хелги настъпва неочакван обрат, когато среща Сваба, красивата и неукротима жена воин, дъщеря на Хьогне, господаря на Остерготия.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/64-The-Valkyrie-and-the-Volsungo
