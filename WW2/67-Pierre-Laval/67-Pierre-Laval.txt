@@ -1,0 +1,18 @@
+* Title: Пиер Лавал. Силният човек на Виши
+* Issue: 67
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Joan Solé
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 12
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Пиер ЛаВал е синоним на колаборационизъм: политиката, която режимът на Виши – полуавтономното правителство на Южна Франция, поддържа спрямо нацистката окупация между 1940 и 1944 г. Ако маршал Петен е символичната фигура, ЛаВал е неговият архитект: политикът, който се споразумява с Германия за депортации в лагерите на смъртта, налагане на задължителна трудова служба и създаване на милиция. Дори след освобождението, до деня на екзекуцията му, той твърди, че стратегията му е имала за цел да облекчи страданията на Франция по време на окупацията.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/67-Pierre-Laval
