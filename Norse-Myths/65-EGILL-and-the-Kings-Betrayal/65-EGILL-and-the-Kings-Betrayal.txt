@@ -1,0 +1,18 @@
+* Title: ЕГИЛ и предателството на краля
+* Issue: 65
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 25
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Изминават много години, откакто исландецът Егил, син на Скала-Грим, прибира оръжията си, за да се ожени за Асгерд, вдовицата на брат си Торолф, и да се грижи за дъщеря им Тордис. Но новина, пристигнала от далечна Норвегия, нарушава спокойствието на мирния му живот: бащата на Асгерд е починал, а природената й сестра е присвоила цялото наследство. Честта и справедливостта принуждават Егил и съпругата му да прекосят морето, за да си вземат това, което им принадлежи. Но старата вражда с норвежкия крал Ерик ще превърне това уж незначително пътуване, свързано с разрешаване на обикновен семеен спор, в нещо безкрайно опасно.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/65-EGILL-and-the-Kings-Betrayal
