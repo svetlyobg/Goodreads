@@ -1,0 +1,18 @@
+* Title: Planet Metal #68: Behemoth
+* Issue: 68
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: May
+* Publication Date Day: 19
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Музикалният стил на Behemoth въплъщава цялото пътуване, което екстремният метъл извървява от началото на 90-те години. Групата е резултат от упоритата работа на човек, готов на всичко, за да сбъдне мечтата си. От 1991 г. Behemoth става водеща група в блек и дет метъла, предлагайки неизследвани дотогава полета отвъд стиловите граници. Спънки, смяна на лейбъли, засечки, болести, промяна на стила, смени в състава: нищо не може да спре тези момчета да следват съдбата си.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/68-Behemoth
