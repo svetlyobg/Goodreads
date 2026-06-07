@@ -1,0 +1,18 @@
+* Title: НЬОРУН и могъществото на Ваните
+* Issue: 66
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Silvia González Laá, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Veronica Navarro (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 01
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: От известно време богинята Ньорун, великата майсторка на магията <i>сейд</i>, е разтревожена от зловещ, натрапчив сън. Тя е уверена, че видението й скоро ще се сбъдне, но не успява да го разтълкува. Към безпокойството й се прибавя и фактът, че живее сама и няма с кого да сподели тревогите си. Един ден, изричайки мистериозно заклинание, Ньорун се появява в Мидгард, света на хората, където намира страдаща земя, в която цветята вехнат, а дърветата съхнат и загиват. Там богинята ще получи възможността да разгадае смисъла на съня, който я преследва.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/66-NIORUNN-and-the-power-of-the-Vanir
