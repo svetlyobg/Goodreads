@@ -1,0 +1,18 @@
+* Title: Planet Metal #69: Amon Amarth
+* Issue: 69
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 2
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Подобно на своите славни викингски предци, <i>Amon Amarth</i> един ден се впускат да завладеят света със същата решителност, но въоръжени само с грандиозните си композиции и гласа на вокалиста, излязъл сякаш от "Ад" на Данте. Това, което прави групата особено завладяваща, е бруталната ѝ музика, заимствана от дет метъла, съчетана умело с въздействащи мелодии. За трийсетте години на сцена членовете на <i>Amon Amarth</i> са се превърнали в свирепи нашественици, които редовно хващат оръжията.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/69-Amon-Amarth
