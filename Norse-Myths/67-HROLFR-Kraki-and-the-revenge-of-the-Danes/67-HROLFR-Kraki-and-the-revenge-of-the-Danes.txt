@@ -1,0 +1,18 @@
+* Title: ХРОЛФ Краки и отмъщението на Даните
+* Issue: 67
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Álvaro Marcos, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 08
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Начело на най-добрите си воини, Хролф Краки отплава, за да отмъсти за смъртта на баща си. Но в морето флотата му е връхлетяна от силна буря и губи провизии и оборудване. Появил се внезапно еднoок старец успокоява водите и дава възможност на Хролф Краки да прибере корабите си на безопасно място. Мистериозният мъж обаче го подтиква да вземе безразсъдни решения, за да осъществи отмъщението си. Дали вождът на даните ще се вслуша в думите на странния човек?
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/67-HROLFR-Kraki-and-the-revenge-of-the-Danes
