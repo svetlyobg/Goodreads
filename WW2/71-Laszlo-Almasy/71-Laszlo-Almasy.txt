@@ -1,0 +1,18 @@
+* Title: Лудвиг Алмаши. Истинският английски пациент
+* Issue: 71
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jordi Solé
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 9
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Аристократът и изследовател Лудвиг Алмаши е изтъкан от светлосенки, характерни за време, в което границите, включително моралните, се размиват. Свързан с Кралското географско дружество на Великобритания, той изследва източната част на Сахара, когато по картите все още съществуват „бели петна": прокарва маршрути, усъвършенства картографията и открива хилядолетни скални рисунки. По време на войната познанията му за пустинята го правят твърде ценен и той влиза в Абвера, като оглавява операция „Салам" - дръзко проникване на германски агенти в Египет през Сахара. Години по-късно Холивуд го преосмисля като романтична легенда. Реалността обаче е на много по-неудобен и много по-интересен човек от всяка измислица.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/71-Laszlo-Almasy
