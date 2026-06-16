@@ -1,0 +1,18 @@
+* Title: Planet Metal #70: Children of Bodom
+* Issue: 70
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 16
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Children of Bodom</i> пишат история в европейския екстремен метъл, водени от непоколебимата младост на своите членове и бързото покоряване на музикални върхове. Петорката развива талантите си и израства до брилянтни музиканти, способни да комбинират блек метъл, мелодичен дет метъл, пауър и традиционен метъл. Виртуозността им помага да покорят челните места в класациите в родната им Финландия, но за това плащат висока цена. Струва си да се обърне внимание на поразителната им кариера.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/70-Children-of-Bodom
