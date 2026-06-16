@@ -1,0 +1,18 @@
+* Title: ЕГИЛ и поемата на спасението
+* Issue: 68
+* Series Link: https://www.goodreads.com/series/418571
+* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Italia S.r.l.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 15
+* Page count: 120
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: След много подвизи и приключения Егил от Исландия се е прославил като велик воин. Славата му се носи из всички кътчета на Мидгард. Навлязъл в зряла възраст, той предпочита да живее спокойно със съпругата си Асгерд и доведената си дъщеря Тордис. Някои проблеми от миналото обаче са останали неразрешени и се завръщат. На Егил отново му предстои да се сблъска с древни заплахи и сериозни опасности, които смята, че е оставил зад гърба си. Те ще го призоват да влезе в последната битка – най-тежката, в която някога се е сражавал.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Norse-Myths/68-EGIL-and-the-poem-of-salvation
