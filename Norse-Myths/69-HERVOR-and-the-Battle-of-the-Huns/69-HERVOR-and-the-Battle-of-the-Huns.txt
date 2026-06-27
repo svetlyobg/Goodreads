@@ -1,8 +1,8 @@
 * Title: ХЕРВЬОР и битката на хуните
 * Issue: 69
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Javier Yanes, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Diego Olmos (internal illustrations)
+* Author(s) name(s):  Ignacio González Orozco, Juan Carlos Moreno
+* Illustrator(s):Juan Venegas (cover & title page), Santi Arcas (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2026
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Внуците на вече възрастната Хервьор си оспорват правото върху чудодейния меч Тюрфинг. Освен за необикновеното оръжие братята и сестрата се карат и за наследството на баща си, мъдрия яра Хейдрек, който е вероломно убит от робите си. Оттук започва верига от събития, които ще разрушат и без това крехките връзки между братята и ще ги въвлекат в кървава битка.
 
 * Language (for non-English books): Bulgarian
 
