@@ -1,0 +1,18 @@
+* Title: Алберт Шпеер. Архитектът на Хитлер
+* Issue: 73
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Sergi Rodríguez
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: June
+* Publication Date Day: 23
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Шпеер е архитектът на големите архитектурни мечти на фюрера, включително на най-амбициозната от всички: преустройството на Берлин, за да се превърне в столица на вселенска империя. Доверието на Хитлер в него е толкова голямо, че през 1942 г. го назначава за министър на въоръженията и мунициите – длъжност с изключителна отговорност, като се има предвид военното положение. Благодарение на организаторските му умения Германия успява да произвежда оръжие и боеприпаси в огромни обеми, успявайки да запълни някои от слабите места на германската военна машина следващите две и половина години, което обаче не попречва на Шпеер след поражението да се опита да се дистанцира от хитлеристкия режим и да се представи като технократ, който не знае нищо за нацистките престъпления и жестокости.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/73-Albert-Speer
