@@ -1,8 +1,8 @@
 * Title: ХРОЛФ Краки и последната битка
 * Issue: 70
 * Series Link: https://www.goodreads.com/series/418571
-* Author(s) name(s):  Álvaro Marcos, Juan Carlos Moreno
-* Illustrator(s):Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
+* Author(s) name(s): Álvaro Marcos, Juan Carlos Moreno
+* Illustrator(s): Juan Venegas (cover & title page), Bianca Yespica (internal illustrations)
 * Translator(s) name(s): Нина Стаменова, Силвия Димитрова
 * Publisher: Hachette Italia S.r.l.
 * Publication Date Year: 2026
@@ -11,7 +11,7 @@
 * Page count: 120
 * Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
 
-* Description: 
+* Description: Неприязън и завист измъчват Скулд, сестрата на великия воин Хролф Краки. Убедена, че брат ѝ никога не се е отнасял справедливо с нея, тя плете интриги, с които иска да предизвика голяма и решителна битка. Скрити в тъмните сенки, воините на Скулд се нахвърлят върху нищо неподозиращите воини на Хролф Краки, които, макар и изненадани, ги отблъскват смело. Тогава Скулд, която владее черната магия, ще се поколебава да прибегне до ужасни заклинания, за да постигне победа.
 
 * Language (for non-English books): Bulgarian
 
