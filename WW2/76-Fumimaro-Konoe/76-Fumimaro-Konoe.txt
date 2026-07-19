@@ -1,0 +1,18 @@
+* Title: Фумимаро Коное. Японската дилема
+* Issue: 76
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jordi Solé
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: July
+* Publication Date Day: 14
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Принадлежащият към най-висшата японска аристокрация Фумимаро Коное (1891 - 1945) олицетворява противоречията в имперска Япония, разкъсвана между традиция и модерност, дипломация и милитаризъм. Като министър-председател в решаващи моменти той насочваше военния курс на страната и по време на нейното управление Япония подписва Тристранния пакт с Германия и Италия. Краят му обобщава разпадането на елит, който не успява да контролира силите, които сам е отприщил. Историята на Коное е за пробата на умереността пред лицето на военния радикализъм в предвоенна Япония.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/76-Fumimaro-Konoe
