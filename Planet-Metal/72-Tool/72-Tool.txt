@@ -1,0 +1,18 @@
+* Title: Planet Metal #72: Tool
+* Issue: 72
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: July
+* Publication Date Day: 14
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Освен <i>Dream Theater, Tool</i> е единствената прогресив метъл група, спечелила множество награди и златни плочи. Квартетът, воден от Мейнард Джеймс Кийнън и Адам Джоунс обаче има и тъмна страна. Ако групата на Джон Петручи се отличава с блестящата си виртуозност, <i>Tool</i> следват смел и изпълнен с трудности път на самоанализ. Противно на всички очаквания, те създават свои лоялни фенове, очаровани от тяхната изключителна визуална и звукова вселена.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/72-Tool
