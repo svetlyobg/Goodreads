@@ -1,0 +1,18 @@
+* Title: Симон Визентал. Паметта на Холокоста
+* Issue: 78
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Sergi Rodríguez
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: July
+* Publication Date Day: 
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Ако трябва да се определи Симон Визентал с една дума, тя би била „оцелял". Нацистите го влачат през гета, затвори и концентрационни лагери, а 89 негови роднини са убити в газови камери, но той се измъква от ада. От освобождаването му през май 1945 г. до края на живота му през септември 2005 г. съсредоточава цялата си енергия върху единствена цел: да преследва палачите. Благодарение на неговите неуморни разследвания престъпници като Айхман, Щангъл или Мюрер се озовават на подсъдимата скамейка. Но най-голямата му заслуга е да превърне личната трагедия в мисия, така че светът никога да не може да забрави.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/78-Simon-Wiesenthal
