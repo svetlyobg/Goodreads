@@ -1,0 +1,18 @@
+* Title: Рудолф Хьос. Комендантът на Аушвиц
+* Issue: 80
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jordi Solé
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: August
+* Publication Date Day: 11
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: С насоки да стане свещеник, Рудолф Хьос се превръща в архитект на най-голямата фабрика за смърт в историята. Като комендант на Аушвиц-Биркенау между 1940 и 1943 г. носи пряка отговорност за убийството на над един милион души, чието изтребление управлява с хладнокръвието на човек, ръководещ индустриална операция. Неговата фигура въплъщава като малко други баналността на нацисткото зло: обикновен индивид, превърнат в ключов елемент от безпрецедентен геноцид. Неговата биография не само документира механиката на ужаса, но и разкрива мисленето, което го прави възможен.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/80-Rudolf-Hoss
