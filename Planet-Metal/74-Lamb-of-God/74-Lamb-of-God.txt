@@ -1,0 +1,18 @@
+* Title: Planet Metal #74: Lamb of God
+* Issue: 74
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: August
+* Publication Date Day: 11
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: След като буквално са залети с похвали, през 2012 г. <i>Lamb of God</i> преживяват голям шок, когато вокалистът им Ранди Блайт е арестуван и срещу него в Прага е заведен съдебен процес по обвинение за причиняване на смърт по непредпазливост. По-късно музикантът е оправдан. Тревожен факт е, че особено след появата на социалните мрежи, презумпцията за невинност вече не важи в метъл средите. В историята на групата има ясно разграничение между преди и след тази трагедия, която дамгоса Ранди с определението „певецът, който уби един от почитателите си".
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/74-Lamb-of-God
