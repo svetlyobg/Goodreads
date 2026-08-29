@@ -1,0 +1,18 @@
+* Title: Planet Metal #75: Within Temptation
+* Issue: 75
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: August
+* Publication Date Day: 25
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: За четвърт век на сцената <i>Within Temptation</i> успява да докаже, че метълът и класическата музика могат да съществуват в хармония. Групата, в която чуваме величествения глас на Шарън ден Адел, разчита и на отлични музиканти, а е и пионер в този смесен жанр. Трябва да се признае, че нидерландската формация е постигнала много, като се има предвид, че в света на метъла доминират предимно английски и американски групи.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/75-Within-Temptation
