@@ -1,0 +1,18 @@
+* Title: Манолис Глезос. Първият партизанин
+* Issue: 83
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jaime Moreno Delgado
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: September
+* Publication Date Day: 1
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Манолис Глезос (1922 – 2020) е партизанин, прогресивен политик, журналист и писател, който със своята зрелищна и изключително символична акция на Акропола през 1941 г. се превръща в символ на началото на гръцката съпротива срещу германския окупатор. Отвъд този подвиг, който е лъч на надежда за окупирана Европа, целият му живот е отражение на любовта му към Елада и на неговата отдаденост на свободата и справедливостта.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/83-Manolis-Glezos
