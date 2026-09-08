@@ -1,0 +1,18 @@
+* Title: Planet Metal #76: Dimmu Borgir
+* Issue: 76
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: September
+* Publication Date Day: 8
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: В известен смисъл <i>Dimmu Borgir</i> са второ поколение на норвежкия блек метъл. Предишното прави сензационен пробив до голяма степен благодарение на огъня и кръвта, които ги съпътстват. <i>Dimmu Borgir</i> обаче са посветили усилията си да се изградят като характери, да се наложат като музиканти и да направят кариера, като се заклеват в идеята за спазване на традициите в хеви и блек метъла. Заедно със своите сънародници <i>Emperor</i>, групата успява да се утвърди в света на симфоничния блек метъл с поредица от невероятни монументални албуми.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/76-Dimmu-Borgir
