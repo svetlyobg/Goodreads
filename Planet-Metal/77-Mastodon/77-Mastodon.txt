@@ -1,0 +1,18 @@
+* Title: Planet Metal #77: Mastodon
+* Issue: 77
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: September
+* Publication Date Day: 22
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>Mastodon</i> не пробиват наистина: дори не успяват да спечелят „златен“ диск. Тяхното творчество обаче продължава да се разпространява от момента на основаването - впечатляващ резултат , като се има предвид, че някои групи рядко излизат извън кръга на познавачите. <i>Mastodon</i> успява благодарение на своя прогресив метъл. Албумите са изключително оригинални, завладяващи, музикантите са изключителни, а почитателите им никога не са оставали разочаровани.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/77-Mastodon
