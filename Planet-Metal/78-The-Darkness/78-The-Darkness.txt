@@ -1,0 +1,18 @@
+* Title: Planet Metal #78: The Darkness
+* Issue: 78
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: October
+* Publication Date Day: 06
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: <i>The Darkness</i> е основана от четирима британски музиканти, които от тийнейджъри се възхищават на <i>Aerosmith</i> и <i>Van Halen</i>. Още с дебютния им албум, издаден през 2003 г., се превръщат в сензация. Джъстин и Дан Хокинс, Франки Пулен и Ед Греъм вдъхват нов живот на глем метъла, отчасти благодарение на името си, което извиква в съзнанието образа на готическия свят с нотка британски хумор. В допълнение към успеха на групата в нейната родина концертните изпълнения в континентална Европа, САЩ и Япония съпътстват осъзнаването на световната им слава.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/78-The-Darkness
