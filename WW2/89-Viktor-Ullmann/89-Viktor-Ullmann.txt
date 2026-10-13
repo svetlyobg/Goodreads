@@ -1,0 +1,20 @@
+* Title: Виктор Улман. Музика срещу изтреблението
+* Issue: 89
+* Series Link: https://www.goodreads.com/series/409925
+* Author(s) name(s): Jordi Sole
+* Illustrator(s): Pau Taverna
+* Publisher: Emse Edapp S. L.
+* Original Idea: Emse Edapp S. L.
+* Publication Date Year: 2026
+* Publication Date Month: October
+* Publication Date Day: 13
+* Page count: 144
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Paperback
+
+* Description: Докато Хитлер презира многообразния свят на бившата Австро-Унгарска империя, Виктор Улман олицетворява точно обратното: Европа на културни пресечни точки, споделени езици и преплитащи се традиции. Евреин по произход, получил образованието си във Виена и развил се като творец в Чехословакия в междувоенния период, той превръща музиката си в пространство на модерност, естетически изисквания и хуманистична позиция. Поради това нацистите го правят свой враг: забраняват творчеството му и го депортират в Терезин заедно със семейството му. Но дори в лагера не престава да твори. Тази биография възстановява пътя на изключителен композитор и в същото време на Европа, разрушена от фанатизъм. В разгара на Втората световна война Улман противопоставя на преследването и изтреблението моралната сила на културата.
+
+
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/WW2/89-Viktor-Ullmann
