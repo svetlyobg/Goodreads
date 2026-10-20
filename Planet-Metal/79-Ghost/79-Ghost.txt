@@ -1,0 +1,18 @@
+* Title: Planet Metal #79: Ghost
+* Issue: 79
+* Series Link: https://www.goodreads.com/series/380276-planet-metal
+* Author(s) name(s): Philippe Margotin, François Farmine, Géant Vert, Christian Eudeline, Guillame "Ged" Dumazer, Jean-Michel Guesdone
+* Illustrator(s): Susanna Pedone, Andrea Valentini
+* Translator(s) name(s): Нина Стаменова, Силвия Димитрова
+* Publisher: Hachette Fascicoli S.R.L.
+* Publication Date Year: 2026
+* Publication Date Month: October
+* Publication Date Day: 20
+* Page count: 64
+* Format (such as paperback, hardcover, ebook, audiobook, etc): Hardcover
+
+* Description: Изненадата идва от студения север: метъл група, която постига огромен успех, докато изпълнява музика, съчетаваща поп и хард рок влияния и същевременно представя сатанински образи. Сценичните костюми и декори очевидно са вдъхновени от света на блек метъла. За групата от Швеция <i>Ghost</i> всичко мирише на ад и грях. Нейният основател и оформител Тобиас Форге е много добре запознат с християнската религия.
+
+* Language (for non-English books): Bulgarian
+
+* Link to book page: https://github.com/svetlyobg/Goodreads/tree/main/Planet-Metal/79-Ghost
